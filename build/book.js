@@ -37,7 +37,13 @@ const P = (children, o = {}) => new Paragraph({ children: Array.isArray(children
 const interludeAt = Object.keys(S.interludes).map(Number); // index in weapons list
 let page = 1; const pageOf = [];
 W.forEach((w, i) => { if (interludeAt.includes(i)) page++; pageOf[i] = page++; });
-const interludePage = pageOf[interludeAt[0]] - 1;
+let interludePage = pageOf[interludeAt[0]] - 1;
+let finalPage = pageOf[W.length - 1] + 1;
+if (process.env.PAGEMAP) {
+  const pm = JSON.parse(fs.readFileSync(process.env.PAGEMAP, 'utf8'));
+  W.forEach((w, i) => { if (pm[w.num]) pageOf[i] = pm[w.num]; });
+  if (pm.final) finalPage = pm.final;
+}
 
 // ---------- front matter ----------
 const front = [];
@@ -52,6 +58,8 @@ front.push(P(r(`${W.length} Weapons`, { size: 22, color: GREY, characterSpacing:
 front.push(P(r('Layered. Dominant. Stock-Market-Coded. Human-Written. No AI.', { size: 17, color: GREY, italics: true }),
   { alignment: AlignmentType.CENTER }));
 
+if (!PILOT && process.env.EDITION) front.splice(5, 1,
+  P(r(`${W.length} Weapons · ${process.env.EDITION}`, { size: 22, color: GREY, characterSpacing: 60 }), { alignment: AlignmentType.CENTER, spacing: { after: 2400 } }));
 if (PILOT) front.splice(4, 2,
   P(r('Expanded Edition', { size: 28, italics: true }), { alignment: AlignmentType.CENTER, spacing: { after: 120 } }),
   P(r(`PILOT DRAFT · WEAPONS ${W[0].num}–${W[W.length - 1].num}`, { size: 18, color: ACCENT, characterSpacing: 60, bold: true }), { alignment: AlignmentType.CENTER, spacing: { after: 2400 } }));
@@ -69,7 +77,7 @@ if (!PILOT) W.forEach((w, i) => {
   }
   front.push(tocLine(String(w.num), w.title_tc, String(pageOf[i])));
 });
-if (!PILOT) front.push(tocLine('', 'Final Word', String(pageOf[W.length - 1] + 1)));
+if (!PILOT) front.push(tocLine('', 'Final Word', String(finalPage)));
 
 // ---------- main matter ----------
 const SPEECH = /^((?:Then |Now |And then )?(?:say|Say|ask|Ask|Tell them|respond)):\s/;
@@ -106,10 +114,10 @@ W.forEach((w, i) => {
       { spacing: { after: 300 }, keepNext: true, border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: ACCENT, space: 10 } } }));
     main.push(P([r('CLIENT  ', { size: 15, bold: true, color: GREY, characterSpacing: 80 }), r(rb.client, { size: 22, italics: true, color: '444444' })],
       { spacing: { after: 200, line: 300 }, keepNext: true }));
-    rb.paras.forEach(t => {
+    rb.paras.forEach((t, k) => {
       const parts = t.split(/(\[pause[^\]]*\])/);
-      const runs = parts.filter(Boolean).map(x => x.startsWith('[pause') ?
-        r(x.replace(/^\[/, '(').replace(/\]$/, ')'), { size: 18, italics: true, color: GREY }) : r(x, { size: 22 }));
+      const runs = (k === 0 ? [r('Say: ', { bold: true, color: ACCENT, size: 22 })] : []).concat(parts.filter(Boolean).map(x => x.startsWith('[pause') ?
+        r(x.replace(/^\[/, '(').replace(/\]$/, ')'), { size: 18, italics: true, color: GREY }) : r(x, { size: 22 })));
       main.push(P(runs, { spacing: { after: 160, line: 312 }, indent: { left: 200 },
         border: { left: { style: BorderStyle.SINGLE, size: 12, color: ACCENT, space: 10 } } }));
     });

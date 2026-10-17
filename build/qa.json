@@ -1,0 +1,68 @@
+{
+ "weapons": 194,
+ "numbers_ok": true,
+ "applicable": 176,
+ "rebuttals": 176,
+ "missing": [],
+ "extra": [],
+ "not_found_in_pdf": [],
+ "overflow_to_next_page": [],
+ "toc_mismatch": [],
+ "words_min": 78,
+ "words_median": 144,
+ "words_max": 185,
+ "under_100": [
+  142
+ ],
+ "over_220": [],
+ "openers_not_verbatim": [
+  13,
+  84,
+  100,
+  120,
+  125,
+  129,
+  133,
+  135,
+  140,
+  141,
+  144,
+  146,
+  148,
+  154,
+  155,
+  157,
+  158,
+  162,
+  164,
+  165,
+  168,
+  169,
+  170,
+  172,
+  173,
+  174,
+  176,
+  178,
+  182,
+  183,
+  184,
+  187,
+  188,
+  190,
+  192,
+  193,
+  194
+ ],
+ "repeated_sentences": [
+  [
+   "You've already decided.",
+   3
+  ]
+ ],
+ "ending_punct": {
+  "?": 166,
+  ".": 10
+ },
+ "pdf_pages": 379
+}
