@@ -1,0 +1,3370 @@
+{
+ "weapons": [
+  {
+   "old": 1,
+   "title": "THE FIRELINE OF ORIGIN",
+   "lines": [
+    "This isn’t the first call — this is your first war.",
+    "The fireline doesn’t come from scripts — it comes from scars.",
+    "Every time you dial, you’re dragging fire behind your voice.",
+    "You’re not offering Apple shares — you’re offering resurrection.",
+    "Your breath should sound like it burned bridges just to reach here.",
+    "This client is not a stranger — they’re a checkpoint.",
+    "You don’t convince people to invest — you dare them to live.",
+    "If your words aren’t burning, your mission is already over.",
+    "They don’t hear your voice. They feel your decision.",
+    "You are not starting sales — you’re starting a storm.",
+    "Your origin isn’t where you began. It’s where you refused to stop.",
+    "Say the first line like you’re never going to say it again."
+   ],
+   "num": 1,
+   "title_tc": "The Fireline of Origin"
+  },
+  {
+   "old": 2,
+   "title": "THE REASON FOR WAR",
+   "lines": [
+    "You can’t close stock market deals with cold intentions.",
+    "If you don’t bleed for this, your voice will sound empty.",
+    "You’re not here to sell leverage — you’re here to save time.",
+    "This is war against regret, not against price.",
+    "Remember why you started — and push like hell.",
+    "Every second you delay, someone else makes that deposit.",
+    "You’re not fighting to win a client. You’re fighting to free them.",
+    "This is not passion. This is pressure fused with pain.",
+    "Let your reason echo louder than your script.",
+    "You’re not on a shift. You’re on a mission.",
+    "Without purpose, your mouth becomes plastic.",
+    "The Psycho doesn’t need motivation — he remembers the wound."
+   ],
+   "num": 2,
+   "title_tc": "The Reason for War"
+  },
+  {
+   "old": 3,
+   "title": "THE VIBRATION STRUCTURE",
+   "lines": [
+    "The voice isn’t made of sound — it’s made of voltage.",
+    "If your tone can’t shake them, your words are worthless.",
+    "Clients don’t hear content. They feel frequency.",
+    "The vibration must match the heartbeat of a rising stock.",
+    "Talk like your sound is tied to Tesla’s next breakout.",
+    "Your vocal pressure should feel like pending profit.",
+    "The Psycho speaks in coded layers — soft, sharp, solid.",
+    "Every sentence must touch their spine, not their ears.",
+    "The way you speak should feel like a moving chart.",
+    "If they’re not unsettled, your rhythm is still shallow.",
+    "Vibrate certainty, not desperation.",
+    "Speak as if your voice is tracking the next boom."
+   ],
+   "num": 3,
+   "title_tc": "The Vibration Structure"
+  },
+  {
+   "old": 4,
+   "title": "THE FINAL PUSH",
+   "lines": [
+    "Final push isn’t about talking. It’s about crashing silence.",
+    "This is the zone where weak closers beg — you break.",
+    "Say the last line like their balance depends on it.",
+    "Remind them that the exit door always closes without sound.",
+    "You aren’t offering “one last chance” — you are the last chance.",
+    "Make them feel like they’re watching Amazon slip away again.",
+    "Speak with the weight of their future hanging mid-air.",
+    "Push doesn’t mean pressure. It means prophecy.",
+    "You say one sentence that breaks delay into obedience.",
+    "Your job isn’t to make them act — it’s to make them unable to ignore.",
+    "Don’t nudge them. Drop the whole building.",
+    "Final push = destiny revealed under sales disguise."
+   ],
+   "num": 4,
+   "title_tc": "The Final Push"
+  },
+  {
+   "old": 5,
+   "title": "THE FIRST STRIKE",
+   "lines": [
+    "First line isn’t greeting. It’s ground invasion.",
+    "You’re not a rep. You’re a market anomaly.",
+    "Speak like Nvidia just opened 9% up — and you knew before anyone.",
+    "The first second is not for connecting — it’s for penetrating.",
+    "No intros. No warming up. Just high-voltage verbal assault.",
+    "They should feel like they answered Wall Street’s dark twin.",
+    "Your job is to make them forget their reality.",
+    "Make them pause, tilt their head, and hold their breath.",
+    "They shouldn’t remember your name. They should remember the damage.",
+    "Say what no one dared — without raising your voice.",
+    "First strike = emotional malfunction in disguise.",
+    "Make it land like an insider leak wrapped in silence."
+   ],
+   "num": 5,
+   "title_tc": "The First Strike"
+  },
+  {
+   "old": 6,
+   "title": "THE ENTRY TRIGGER",
+   "lines": [
+    "The entry trigger is the crack that lets your fire in.",
+    "You don’t knock — you glitch into their focus.",
+    "Say the line that makes them think they missed something.",
+    "Trigger curiosity laced with capital consequence.",
+    "Mention Google, mention pre-market, mention what could be gone.",
+    "But wrap it like a casual whisper, not a sales pitch.",
+    "You want to sound like a price movement they didn’t catch.",
+    "Your voice must remind them of the money they let die.",
+    "Trigger = mental disturbance wrapped in velvet.",
+    "No build-up. No romance. Just a psycho finger on their security.",
+    "Make them ask questions before you even give answers.",
+    "Once triggered, they’ll follow. Now you control the map."
+   ],
+   "num": 6,
+   "title_tc": "The Entry Trigger"
+  },
+  {
+   "old": 7,
+   "title": "THE BREATH OF CONFIDENCE",
+   "lines": [
+    "Confidence isn’t energy. It’s gravitational presence.",
+    "You don’t show it. You become the air inside their doubt.",
+    "Breathe like your lungs are plugged into the NYSE bell.",
+    "Each pause must scream, “I know how this ends.”",
+    "You are not explaining. You are setting a tone they can’t ignore.",
+    "Speak like your voice is funded by facts and fire.",
+    "When they hesitate — you must sound like profit.",
+    "You don’t need to know everything. You need to sound like you do.",
+    "Confidence is the absence of inner negotiation.",
+    "Your breath must say, “I’ve already closed this in my head.”",
+    "No trembling. No upward inflection.",
+    "Just verbal pressure they can’t escape."
+   ],
+   "num": 7,
+   "title_tc": "The Breath of Confidence"
+  },
+  {
+   "old": 8,
+   "title": "THE FOCUS LOCK",
+   "lines": [
+    "Focus isn’t attention — it’s elimination.",
+    "Lock in like you’re watching the S&P crack a resistance level.",
+    "Nothing else exists but this person, this moment, this fracture.",
+    "Don’t sell in directions. Tunnel through.",
+    "Your eyes, even on the phone, must pierce their pattern.",
+    "They test your focus with silence. You pass by breaking it.",
+    "When objections rise, stare deeper, not louder.",
+    "One-second distraction, and your credibility bleeds.",
+    "Your focus must feel like a sniper waiting for breath.",
+    "You’re not multitasking. You’re customizing war.",
+    "Say less. Drill more. Wait for the crack.",
+    "Focus lock = one voice, one target, one destiny."
+   ],
+   "num": 8,
+   "title_tc": "The Focus Lock"
+  },
+  {
+   "old": 9,
+   "title": "THE 3-SECOND KILL ZONE",
+   "lines": [
+    "You have three seconds to rewrite their emotion.",
+    "Say something that overrides their logic permanently.",
+    "Mention leverage, but like it’s a doorway to vengeance.",
+    "Kill zone isn’t for education. It’s for disruption.",
+    "If they don’t lean forward in 3 seconds, you failed.",
+    "This isn’t the time to sound smart — sound fatal.",
+    "Your line must feel like losing 12% in one candle.",
+    "Create tension with softness. Strike with exact pressure.",
+    "Three seconds = moment between resistance and collapse.",
+    "You’re not giving information. You’re infecting attention.",
+    "Say one sentence that makes them unable to disconnect.",
+    "Kill zone ends when they either surrender — or shut down."
+   ],
+   "num": 9,
+   "title_tc": "The 3-Second Kill Zone"
+  },
+  {
+   "old": 10,
+   "title": "THE CLIENT FRACTURE",
+   "lines": [
+    "Clients don’t buy products. They buy relief from pain.",
+    "Find their financial insecurity and twist it with precision.",
+    "Speak like you know they’ve lost before.",
+    "Mention opportunity. Then pause — let guilt rise.",
+    "Don’t attack — fracture.",
+    "Say: “I know people who waited… and still regret it.”",
+    "Make their silence feel like accountability.",
+    "Don’t sell a plan. Reveal a mirror.",
+    "Your words must feel like delayed profit yelling back.",
+    "Let them hear the voice of someone who knows what fear costs.",
+    "Once fractured, insert your offer like anesthesia.",
+    "Break them softly. Then build them with equity."
+   ],
+   "num": 10,
+   "title_tc": "The Client Fracture"
+  },
+  {
+   "old": 11,
+   "title": "THE EGO THREAD",
+   "lines": [
+    "Every buyer brings ego before logic. Snap that thread.",
+    "They don’t want returns — they want to feel right.",
+    "You’re not fighting objections. You’re fighting their self-image.",
+    "Don’t overpower them. Outsmart their identity loop.",
+    "Say something that compliments, then fractures.",
+    "“You look like someone who never misses a move.”",
+    "Now offer Meta at a bounce — watch their chest rise.",
+    "This is not manipulation. This is alignment through exposure.",
+    "The ego thread is thin — pull it gently but brutally.",
+    "They’ll buy just to protect their pride, not to earn.",
+    "You are not their enemy. You are their reflection.",
+    "Psycho doesn’t challenge the ego. He uses it as fuel."
+   ],
+   "num": 11,
+   "title_tc": "The Ego Thread"
+  },
+  {
+   "old": 12,
+   "title": "THE FRAME OF CONTROL",
+   "lines": [
+    "Control is not what you show — it’s what you breathe.",
+    "The buyer must feel like they stepped into your terrain.",
+    "Set the frame before the words — or lose the throne.",
+    "Say things that sound like statements, not questions.",
+    "You don’t ask “Can I explain?” — you say “Here’s what matters.”",
+    "They will test your frame with silence, sarcasm, shift.",
+    "Pass that test by staying centered and exact.",
+    "Frame isn’t attitude — it’s unshakeable situational command.",
+    "Let your vibe say, “I’ve been here before. I’ll be here after.”",
+    "Don’t raise your voice. Raise your emotional certainty.",
+    "Your control should wrap around the client like market gravity.",
+    "You are not a seller. You are the environment."
+   ],
+   "num": 12,
+   "title_tc": "The Frame of Control"
+  },
+  {
+   "old": 13,
+   "title": "THE EMOTIONAL DRILL",
+   "lines": [
+    "Facts fail. Feelings close. Drill emotional reality into their bones.",
+    "Talk about loss. Talk about delay. Talk about watching Tesla run.",
+    "Ask: “Ever felt you knew it… but still didn’t act?”",
+    "Let the silence do more than your data sheets.",
+    "The drill is simple: bring old pain to new surface.",
+    "Remind them of the day they sold too early.",
+    "Speak softly when you touch that wound — don’t scream.",
+    "Your job is not to convince — it’s to reopen.",
+    "Every client is already emotional. You just have to knock.",
+    "Use emotional language, not charts. Use tone, not tension.",
+    "This is not selling. This is haunting with profit memory.",
+    "The Psycho doesn’t teach. He triggers."
+   ],
+   "num": 13,
+   "title_tc": "The Emotional Drill"
+  },
+  {
+   "old": 14,
+   "title": "THE DOMINANCE PRESSURE",
+   "lines": [
+    "Not fear. Not love. Pure psychological weight.",
+    "Your tone must feel like a market crashing at 9:31 AM.",
+    "Clients obey pressure when it’s clean, quiet, inescapable.",
+    "Say nothing fast. Say everything with gravity.",
+    "Let them feel that you already know how this ends.",
+    "You must talk like exits bend to your voice.",
+    "Don’t rush the deal. Trap it slowly with command.",
+    "Dominance doesn’t mean overpowering — it means undeniable weight.",
+    "Be the heaviest thing in the conversation without volume.",
+    "Say: “I won’t chase. I only offer once.”",
+    "Psycho dominance = full authority masked in calm delivery.",
+    "You don’t win deals. You corner them with power."
+   ],
+   "num": 14,
+   "title_tc": "The Dominance Pressure"
+  },
+  {
+   "old": 15,
+   "title": "THE TRUST RIPPER",
+   "lines": [
+    "Trust isn’t built. It’s exposed.",
+    "Tear down their fake beliefs first — then enter.",
+    "Say: “I know you’ve heard bullshit before.”",
+    "Say: “Let’s not play expert — let’s play honest.”",
+    "They trust you when you rip off the polished mask.",
+    "Don’t sound clean. Sound real, cracked, battle-tested.",
+    "Mention failed brokers. Mention broken trades. Mention real pain.",
+    "Then let your solution arrive like clean light.",
+    "The trust ripper is a shift, not a pitch.",
+    "You have to go deeper than logic — into resentment.",
+    "Make them feel like you get it — and they’ll follow.",
+    "Psycho doesn’t win trust. He breaks what’s in the way."
+   ],
+   "num": 15,
+   "title_tc": "The Trust Ripper"
+  },
+  {
+   "old": 16,
+   "title": "THE NOISE SHIELD",
+   "lines": [
+    "You’re not fighting competition. You’re fighting distraction.",
+    "Every other call they get is noise. Be signal.",
+    "Cut through the static with sharp silence and precision.",
+    "Say something they haven’t heard in 6 months.",
+    "Noise shield = stop being one more voice. Be that voice.",
+    "You must sound like data wrapped in destiny.",
+    "No hype. No overtalking. Just lethal minimalism.",
+    "Make your pauses feel louder than the next caller’s pitch.",
+    "You don’t compete — you mute the market around you.",
+    "Sound like you’ve already been chosen.",
+    "Be the voice they didn’t know they were waiting for.",
+    "Psycho doesn’t scream — he slices."
+   ],
+   "num": 16,
+   "title_tc": "The Noise Shield"
+  },
+  {
+   "old": 17,
+   "title": "THE SILENCE SLAB",
+   "lines": [
+    "Silence isn’t blank space. It’s psycho ammunition.",
+    "Let it drop like a 3-second candle — deadly and focused.",
+    "When they say something dumb, go silent. Let them feel it.",
+    "When they hesitate, go silent. Let the room shrink.",
+    "Silence is pressure without effort.",
+    "It makes them question their stance, tone, and decision.",
+    "A good silence burns deeper than 10 rebuttals.",
+    "Use it like a slap — but quieter.",
+    "The slab hits when you withdraw and still control.",
+    "They fill the silence — and show you the hole.",
+    "You speak next, and bury the deal inside it.",
+    "Silence isn’t empty. It’s engineered tension."
+   ],
+   "num": 17,
+   "title_tc": "The Silence Slab"
+  },
+  {
+   "old": 18,
+   "title": "THE ENERGY FLIP",
+   "lines": [
+    "Not all clients come open. Flip their energy.",
+    "If they’re cold — heat them. If they’re hyper — ground them.",
+    "You’re not a reactor. You’re an emotional inverter.",
+    "Mirror their state. Then flip the emotional table.",
+    "Say something that hijacks their pattern.",
+    "They say “I’m not interested.” You say “That’s why I called.”",
+    "They say “I don’t trust brokers.” You say “Exactly. Let me earn it.”",
+    "You control the mood by redirecting resistance.",
+    "Energy isn’t random. It’s a chess game.",
+    "You must be one sentence away from total vibe shift.",
+    "The Psycho doesn’t resist resistance — he remixes it.",
+    "Flip them — and they won’t even know it happened."
+   ],
+   "num": 18,
+   "title_tc": "The Energy Flip"
+  },
+  {
+   "old": 19,
+   "title": "THE SCRIPTLESS SLAP",
+   "lines": [
+    "Throw the script. Keep the instinct.",
+    "This moment needs blood, not blueprint.",
+    "Talk like you’re the only one in the room who cares.",
+    "Say something that isn’t in any manual.",
+    "Scriptless slap = emotional chaos that sounds too real to ignore.",
+    "Let your raw honesty punch through doubt.",
+    "Say: “Look, I don’t know if you’re scared or smart…”",
+    "“…but this isn’t about investing. It’s about changing direction.”",
+    "Clients freeze when they hear truth wrapped in fire.",
+    "No structure. Just eruption.",
+    "If they feel you’re no longer following rules, they listen harder.",
+    "The Psycho doesn’t memorize. He materializes."
+   ],
+   "num": 19,
+   "title_tc": "The Scriptless Slap"
+  },
+  {
+   "old": 20,
+   "title": "THE AUTHORITY INJECTION",
+   "lines": [
+    "You have 30 seconds to inject command.",
+    "Not beg. Not beg. Not fucking beg.",
+    "Speak like you are the regulator of their next decision.",
+    "Say: “Here’s what’s happening — whether you join or not.”",
+    "They must hear the pulse of someone with access.",
+    "Inject authority with simplicity.",
+    "They should feel you’re coming from inside the exchange.",
+    "No need for titles. Your tone is the credential.",
+    "Say less with more certainty.",
+    "They move when they feel they’re speaking to consequence.",
+    "The Psycho doesn’t ask for attention. He anchors it.",
+    "Authority is not earned — it’s injected."
+   ],
+   "num": 20,
+   "title_tc": "The Authority Injection"
+  },
+  {
+   "old": 21,
+   "title": "THE CLIENT MIRROR",
+   "lines": [
+    "Don’t speak first. Let them expose their chart.",
+    "Every client is a candlestick in human form.",
+    "Study their words like market sentiment — track weakness.",
+    "Mirror their tone, pause, logic — then bend it.",
+    "Say: “Sounds like you’ve done your research” — and pause.",
+    "Then flip it: “So why aren’t you inside already?”",
+    "Let them see their own fear sitting naked on the call.",
+    "Mirror them till they start hating their own delay.",
+    "Every objection reflects a broken belief. Show it.",
+    "You are not selling. You’re decoding human volatility.",
+    "Psycho doesn’t reflect. He refracts.",
+    "And once they see themselves — they shift."
+   ],
+   "num": 21,
+   "title_tc": "The Client Mirror"
+  },
+  {
+   "old": 22,
+   "title": "THE TIME RAZOR",
+   "lines": [
+    "Time isn’t running. It’s slicing.",
+    "You don’t sell urgency — you weaponize it.",
+    "Tell them: “The chart doesn’t wait, and neither do I.”",
+    "Say: “This candle expires with or without your action.”",
+    "Time Razor is not a rush tactic. It’s spiritual slicing.",
+    "Let them feel like every tick is carving potential away.",
+    "You must become the voice of limited availability.",
+    "Show them the cost of time like a balance sheet.",
+    "Time isn’t pressure — it’s punishment.",
+    "Let them taste what delay sounds like in cash.",
+    "Every Psycho pitch has a countdown coded inside.",
+    "When you say time, they must hear scarcity."
+   ],
+   "num": 22,
+   "title_tc": "The Time Razor"
+  },
+  {
+   "old": 23,
+   "title": "THE PRICELESS VOID",
+   "lines": [
+    "Silence isn’t empty. It’s value with no name yet.",
+    "Don’t fill every second — leave space to burn.",
+    "Say your line — then leave the client to float.",
+    "Make them hang in the emotional void you create.",
+    "That space… is where realizations explode.",
+    "The void is not absence — it’s psychological stage lighting.",
+    "Pull back and let them face themselves.",
+    "When they speak, it’ll be a response to pressure, not content.",
+    "The Psycho doesn’t fear silence. He designs it.",
+    "Let your deal sound like the only anchor in that dark space.",
+    "They’ll choose it — just to escape the weight.",
+    "Make void your accomplice."
+   ],
+   "num": 23,
+   "title_tc": "The Priceless Void"
+  },
+  {
+   "old": 24,
+   "title": "THE PRESSURE ZONE",
+   "lines": [
+    "Pressure isn’t volume. It’s invisible compression.",
+    "Speak like your voice is squeezing their decisions.",
+    "Let your tempo slow — let weight rise.",
+    "Say: “I don’t want a maybe — I want a move.”",
+    "Pressure Zone is that moment when they can’t breathe right.",
+    "You are not giving stress. You are giving precision.",
+    "Use emotional gravity. Mention exits. Mention missed rallies.",
+    "Then say nothing. Let the air thin.",
+    "Pressure makes humans act. No pressure = no pulse.",
+    "Build the pressure zone like a room with shrinking oxygen.",
+    "And when they crack — seal the deal mid-collapse.",
+    "Psycho doesn’t force. He compresses."
+   ],
+   "num": 24,
+   "title_tc": "The Pressure Zone"
+  },
+  {
+   "old": 25,
+   "title": "THE FREQUENCY THREAD",
+   "lines": [
+    "Clients tune into energy, not words.",
+    "Match their frequency. Then shift it to your favor.",
+    "You must become their financial wavelength — and then override it.",
+    "Say: “You know this already. You’re just scared to confirm it.”",
+    "You’re not closing. You’re aligning and then absorbing.",
+    "Speak in patterns — rising pitch, pause, drop.",
+    "Let them flow into your pace without realizing it.",
+    "Frequency Thread is not communication. It’s resonance entrapment.",
+    "You pull them into your tempo, your vibe, your decision.",
+    "Talk like your voice was part of their instinct.",
+    "And once they follow your rhythm — the yes becomes reflex.",
+    "Psycho doesn’t persuade. He tunes and takes."
+   ],
+   "num": 25,
+   "title_tc": "The Frequency Thread"
+  },
+  {
+   "old": 26,
+   "title": "THE SHAME TORQUE",
+   "lines": [
+    "Shame is the deepest emotion on a delay decision.",
+    "You’re not scaring them. You’re exposing what they already avoid.",
+    "Say: “What will it feel like when this runs without you again?”",
+    "Say: “Are you okay watching others act while you overthink?”",
+    "Twist the knife — but wrap it in velvet.",
+    "Shame Torque isn’t insult. It’s internal echo amplification.",
+    "Let them see how they’ve sabotaged before.",
+    "Make them relive the last miss — but colder this time.",
+    "Once their heart tightens, offer the antidote.",
+    "You are not bullying — you’re activating personal reflection.",
+    "Shame opens faster than logic ever could.",
+    "And Psycho knows how to tighten it just enough."
+   ],
+   "num": 26,
+   "title_tc": "The Shame Torque"
+  },
+  {
+   "old": 27,
+   "title": "THE 4-WORD COLLAPSE",
+   "lines": [
+    "You don’t need paragraphs. Just 4 words.",
+    "Say: “It’s already too late.” — and pause.",
+    "Say: “You know this moment.” — and slow down.",
+    "Say: “Or wait. Miss again.” — and hold it.",
+    "Four words can destroy months of defense.",
+    "Use combo shots. Inject fear, hope, memory, and regret.",
+    "Words aren’t tools here — they’re grenades.",
+    "Every 4-word strike must shake a layer off.",
+    "Let them collapse — then walk them forward.",
+    "This is not poetry. This is weaponized brevity.",
+    "Psycho doesn’t need monologues. He kills in quads.",
+    "They say yes to avoid hearing the fifth."
+   ],
+   "num": 27,
+   "title_tc": "The 4-Word Collapse"
+  },
+  {
+   "old": 28,
+   "title": "THE EXIT SEAL",
+   "lines": [
+    "Never leave a client open-ended. Close the gate.",
+    "The deal isn’t done when they say yes — it’s done when they stop thinking.",
+    "Say: “I’m locking this in for you now.”",
+    "Say: “Once I send this, it’s sealed.”",
+    "Exit Seal = energetic closure.",
+    "Let the client feel like the window is shutting.",
+    "Speak like paperwork is already in motion.",
+    "They must feel that if they blink, it’s gone.",
+    "Your tone must feel final, absolute, irreversible.",
+    "This isn’t a closing technique. This is closing reality.",
+    "They don’t want the deal. They want the safety of being done.",
+    "Psycho doesn’t end calls. He seals destinies."
+   ],
+   "num": 28,
+   "title_tc": "The Exit Seal"
+  },
+  {
+   "old": 29,
+   "title": "THE PRESENCE GRIP",
+   "lines": [
+    "Before, during, after — your presence must not fade.",
+    "Let them feel you long after the call ends.",
+    "Say things they repeat silently later.",
+    "Give them a sentence that won’t shut up in their head.",
+    "Your presence must grip like a candle burning cold.",
+    "Psycho presence = haunting calm + undeniable weight.",
+    "You don’t exit calls. You echo.",
+    "Even when they scroll Insta, your tone plays in the background.",
+    "Let every interaction imprint.",
+    "You are not a rep. You are a symbol.",
+    "Presence grip is mental anchoring — not just persuasion.",
+    "Once you’re in — they don’t forget. Even if they try."
+   ],
+   "num": 29,
+   "title_tc": "The Presence Grip"
+  },
+  {
+   "old": 30,
+   "title": "THE YES SPARK",
+   "lines": [
+    "The final yes is not bright. It’s quiet and controlled.",
+    "It comes after pressure, after pain, after total exposure.",
+    "It doesn’t sound excited. It sounds surrendered.",
+    "The client says “yes” not to the deal — but to escape the delay.",
+    "Yes Spark is not celebration. It’s closure with cost.",
+    "You must hear it and not react. Just seal it.",
+    "No “congrats.” No hype. Just stillness.",
+    "Say: “Done.” And let silence eat the room.",
+    "This yes is different — it’s made of fear and fire.",
+    "You broke them. Now rebuild them.",
+    "Welcome them like a warrior, not a customer.",
+    "This is not a close. It’s a psychic signature on war terms."
+   ],
+   "num": 30,
+   "title_tc": "The Yes Spark"
+  },
+  {
+   "old": 31,
+   "title": "THE PRESSURE OF DECISION",
+   "lines": [
+    "Decision isn’t about logic; it’s about pressure.",
+    "Say: “This is the decision. There’s nothing else now.”",
+    "Pressure is not a force. It’s a truth.",
+    "Psycho doesn’t wait for them to feel it.",
+    "He makes them feel the weight of their choice.",
+    "The moment they hesitate, they are already losing.",
+    "Psycho doesn’t beg for the sale.",
+    "He makes it impossible to resist.",
+    "Every moment they wait is another moment they lose.",
+    "This is about commitment.",
+    "Once they commit, there’s no turning back."
+   ],
+   "num": 31,
+   "title_tc": "The Pressure of Decision"
+  },
+  {
+   "old": 32,
+   "title": "THE SILENT COMMAND",
+   "lines": [
+    "Silence speaks louder than words ever could.",
+    "Say: “Do you feel the truth in the silence?”",
+    "Psycho doesn’t need to speak.",
+    "He makes silence fill the space between them.",
+    "The client doesn’t need more words.",
+    "They need to feel the weight of silence.",
+    "When you pause, they feel the pressure.",
+    "Psycho doesn’t rush the decision.",
+    "He lets silence speak the loudest.",
+    "The moment they start thinking, you’ve already won."
+   ],
+   "num": 32,
+   "title_tc": "The Silent Command"
+  },
+  {
+   "old": 33,
+   "title": "THE INVISIBLE FORCE",
+   "lines": [
+    "What can’t be seen controls everything.",
+    "Say: “You don’t see it, but you feel it.”",
+    "Psycho’s presence isn’t seen. It’s felt.",
+    "He doesn’t show them what they want.",
+    "He shows them what they need.",
+    "Psycho doesn’t sell a product.",
+    "He makes them realize they need it.",
+    "It’s not the product. It’s the force behind it.",
+    "Psycho sells necessity, not desire.",
+    "When they feel it, they can’t resist."
+   ],
+   "num": 33,
+   "title_tc": "The Invisible Force"
+  },
+  {
+   "old": 34,
+   "title": "THE ART OF DOMINANCE",
+   "lines": [
+    "Dominance isn’t control. It’s direction.",
+    "Say: “I’m not here to convince you. I’m here to lead you.”",
+    "Psycho doesn’t fight for the decision.",
+    "He leads them to it.",
+    "Dominance isn’t about winning.",
+    "It’s about making them follow the path Psycho creates.",
+    "Once they start walking, there’s no going back.",
+    "Psycho doesn’t need them to choose.",
+    "He makes their decision inevitable.",
+    "He commands their future with every step."
+   ],
+   "num": 34,
+   "title_tc": "The Art of Dominance"
+  },
+  {
+   "old": 35,
+   "title": "THE FINAL DECISION IMPACT",
+   "lines": [
+    "When the decision is made, it’s final.",
+    "Say: “You’ve already chosen. You just haven’t realized it.”",
+    "The moment they say yes, they are no longer the same.",
+    "The decision becomes part of them.",
+    "Psycho doesn’t just close deals.",
+    "He transforms futures with every decision.",
+    "The decision isn’t just a purchase.",
+    "It’s a shift in reality.",
+    "Once they make the decision, it’s done.",
+    "They walk a new path forever."
+   ],
+   "num": 35,
+   "title_tc": "The Final Decision Impact"
+  },
+  {
+   "old": 36,
+   "title": "THE SYSTEMATIC PRESSURE POINT",
+   "lines": [
+    "Every hesitation is a pressure point.",
+    "Say: “Every second you wait, the price increases.”",
+    "Psycho doesn’t push.",
+    "He makes them feel the pressure.",
+    "The longer they hesitate, the more the decision feels urgent.",
+    "Psycho makes hesitation a point of no return.",
+    "Every hesitation is just a delay in their inevitable future.",
+    "Psycho forces them to face the truth of their indecision.",
+    "The longer they wait, the worse it gets for them.",
+    "Pressure points aren’t painful. They’re transformative."
+   ],
+   "num": 36,
+   "title_tc": "The Systematic Pressure Point"
+  },
+  {
+   "old": 37,
+   "title": "THE CLOSING FORCE",
+   "lines": [
+    "The close isn’t about words.",
+    "It’s about force.",
+    "Say: “This isn’t a decision anymore. This is a commitment.”",
+    "The closer you get to the end, the stronger the force becomes.",
+    "Psycho doesn’t ask for the close.",
+    "He commands it.",
+    "Every word spoken moves them closer to the finish line.",
+    "Psycho closes not because they say yes.",
+    "He closes because they must."
+   ],
+   "num": 37,
+   "title_tc": "The Closing Force"
+  },
+  {
+   "old": 38,
+   "title": "THE PRESSURE OF THE UNSEEN",
+   "lines": [
+    "What isn’t seen drives everything.",
+    "Say: “You can’t see it, but you feel it.”",
+    "Psycho makes the unseen the most powerful force.",
+    "The decision isn’t about the product.",
+    "It’s about the energy behind it.",
+    "Psycho’s presence makes them feel the unseen."
+   ],
+   "num": 38,
+   "title_tc": "The Pressure of the Unseen"
+  },
+  {
+   "old": 39,
+   "title": "THE FINAL CLOSE",
+   "lines": [
+    "The close is never an ending — it’s completion.",
+    "Say: “Once you make this decision, there’s no looking back.”",
+    "Every decision has consequences, and the weight of that is unavoidable.",
+    "You don’t sell with words.",
+    "You sell by making them feel the necessity of now.",
+    "The final close is about them realizing that everything they’ve ever wanted is just a decision away.",
+    "Once they say yes, they unlock the next chapter of their life.",
+    "There is no longer a choice. There is only inevitable completion."
+   ],
+   "num": 39,
+   "title_tc": "The Final Close"
+  },
+  {
+   "old": 40,
+   "title": "THE ART OF PERSISTENCE",
+   "lines": [
+    "Persistence isn’t about showing up.",
+    "It’s about becoming the decision.",
+    "Say: “You’ve already made the choice; I’m here to guide you.”",
+    "Persistence wears down resistance, not by force, but by inevitability.",
+    "Once they begin the decision-making process, it cannot be undone.",
+    "You’re not asking them to think.",
+    "You’re making them see that the only choice is the one they’re about to make.",
+    "Psycho doesn’t push. He becomes the decision, and they follow."
+   ],
+   "num": 40,
+   "title_tc": "The Art of Persistence"
+  },
+  {
+   "old": 41,
+   "title": "THE VIBRATION OF TRUTH",
+   "lines": [
+    "Truth doesn’t need to be spoken.",
+    "It vibrates through every word.",
+    "Say: “What you’re feeling is not confusion. It’s the truth.”",
+    "Truth isn’t something to convince.",
+    "It’s something to reveal.",
+    "Once revealed, the decision becomes unavoidable.",
+    "Psycho doesn’t fight for truth.",
+    "He radiates it, until they feel it within.",
+    "The truth makes every hesitation seem like a waste of time."
+   ],
+   "num": 41,
+   "title_tc": "The Vibration of Truth"
+  },
+  {
+   "old": 42,
+   "title": "THE TIMELINE SHIFT",
+   "lines": [
+    "Sales are not just about now.",
+    "They are about shifting timelines.",
+    "Say: “The decision you make today will affect your future, not just your present.”",
+    "Psycho doesn’t sell for the moment.",
+    "He sells timelines, shifting them into their future.",
+    "Once they make the decision, they’re not just buying a product.",
+    "They’re investing in their future, one that cannot be avoided."
+   ],
+   "num": 42,
+   "title_tc": "The Timeline Shift"
+  },
+  {
+   "old": 43,
+   "title": "THE POWER OF PURPOSE",
+   "lines": [
+    "Every sale must be tied to purpose.",
+    "Say: “This isn’t about what you want. It’s about what you need.”",
+    "Purpose gives weight to every decision.",
+    "Without purpose, decisions are empty.",
+    "Psycho doesn’t sell products.",
+    "He offers a pathway to their purpose.",
+    "Every decision they make is a step toward their true destiny."
+   ],
+   "num": 43,
+   "title_tc": "The Power of Purpose"
+  },
+  {
+   "old": 44,
+   "title": "THE PRESSURE OF TIME",
+   "lines": [
+    "Time is the most unforgiving currency.",
+    "Say: “If you wait, you will miss your chance.”",
+    "The longer they wait, the more time slips away.",
+    "Psycho doesn’t give them more time.",
+    "He forces them to decide now, while time is still on their side.",
+    "The decision isn’t about logic. It’s about seizing the moment before it’s gone forever."
+   ],
+   "num": 44,
+   "title_tc": "The Pressure of Time"
+  },
+  {
+   "old": 45,
+   "title": "THE MIND OF DECISION",
+   "lines": [
+    "The mind will always try to resist.",
+    "But the soul knows the truth.",
+    "Say: “This is already your decision. Let’s make it real.”",
+    "Psycho doesn’t fight the mind.",
+    "He makes them feel the truth in their soul.",
+    "Once the mind is aligned with the soul, the decision becomes inevitable.",
+    "Psycho’s approach isn’t about changing their mind.",
+    "It’s about making them realize the truth within them."
+   ],
+   "num": 45,
+   "title_tc": "The Mind of Decision"
+  },
+  {
+   "old": 49,
+   "title": "THE ESSENCE OF SALE",
+   "lines": [
+    "A sale isn’t just an exchange of goods.",
+    "It’s an exchange of power.",
+    "Say: “You’re not just buying. You’re accepting your new reality.”",
+    "Psycho doesn’t sell items.",
+    "He offers a shift in their being.",
+    "Once they accept, they cannot go back."
+   ],
+   "num": 46,
+   "title_tc": "The Essence of Sale"
+  },
+  {
+   "old": 50,
+   "title": "THE END OF NEGOTIATION",
+   "lines": [
+    "Negotiation is a weakness.",
+    "Say: “This isn’t negotiable. This is the only choice.”",
+    "Psycho doesn’t negotiate.",
+    "He presents only one option: the right one.",
+    "The moment you make negotiation irrelevant, the decision is inevitable.",
+    "Psycho doesn’t settle. He forces the right answer to come."
+   ],
+   "num": 47,
+   "title_tc": "The End of Negotiation"
+  },
+  {
+   "old": 51,
+   "title": "THE FEELING OF NECESSITY",
+   "lines": [
+    "Necessity is not just a word — it’s a feeling.",
+    "Say: “This is not an option. This is what you need now.”",
+    "People don’t buy based on logic.",
+    "They buy based on what their soul feels they need.",
+    "Psycho doesn’t just make them want.",
+    "He makes them need the product.",
+    "Every moment of hesitation deepens the void within.",
+    "Make them feel the urgency of now.",
+    "Psycho doesn’t wait for them to understand.",
+    "He makes them realize they can’t live without it.",
+    "Once the need is felt, the decision becomes inevitable."
+   ],
+   "num": 48,
+   "title_tc": "The Feeling of Necessity"
+  },
+  {
+   "old": 52,
+   "title": "THE ETERNAL CLOSING",
+   "lines": [
+    "Every closing is eternal.",
+    "When the sale is made, the relationship doesn’t end.",
+    "Say: “This isn’t a purchase. This is the beginning of something greater.”",
+    "Psycho doesn’t close deals for the moment.",
+    "He closes them for eternity, reshaping their future.",
+    "The sale doesn’t end with the transaction.",
+    "It’s a forever change to their world.",
+    "Psycho doesn’t just sell products.",
+    "He reshapes timelines with each close.",
+    "The decision seals their future."
+   ],
+   "num": 49,
+   "title_tc": "The Eternal Closing"
+  },
+  {
+   "old": 53,
+   "title": "THE ONE-PATH STRATEGY",
+   "lines": [
+    "There’s only one path to the decision.",
+    "Say: “This is your path. There’s no turning back.”",
+    "By eliminating the illusion of choice, you make them walk one path.",
+    "Psycho doesn’t let them wander.",
+    "He directs them to follow one road.",
+    "There’s no right or left.",
+    "There is only forward, to the truth.",
+    "Once they walk, they have no choice but to follow.",
+    "Psycho doesn’t give them options.",
+    "He forces them onto the path they must walk."
+   ],
+   "num": 50,
+   "title_tc": "The One-Path Strategy"
+  },
+  {
+   "old": 54,
+   "title": "THE IMPRINT OF DECISION",
+   "lines": [
+    "Every decision leaves an imprint on the soul.",
+    "Say: “This decision will stay with you forever.”",
+    "The deeper the imprint, the harder it is to undo.",
+    "Psycho’s decisions are etched into their psyche.",
+    "Once they say yes, they cannot turn back.",
+    "The decision becomes a part of them.",
+    "Psycho doesn’t just close sales.",
+    "He imprints a future on their soul.",
+    "Each decision marks them for life.",
+    "This imprint is permanent."
+   ],
+   "num": 51,
+   "title_tc": "The Imprint of Decision"
+  },
+  {
+   "old": 55,
+   "title": "THE COURT OF DECISION",
+   "lines": [
+    "The decision is not just a choice.",
+    "It’s a court.",
+    "They stand as the defendant, and their hesitation is the guilt.",
+    "Say: “You don’t need to convince me. You need to convince yourself.”",
+    "Psycho doesn’t argue.",
+    "He holds court with their hesitation.",
+    "Every doubt they have is a deliberation.",
+    "When they speak, they sentence themselves to their decision.",
+    "Psycho isn’t selling.",
+    "He’s judging their choice."
+   ],
+   "num": 52,
+   "title_tc": "The Court of Decision"
+  },
+  {
+   "old": 56,
+   "title": "THE TRUTH OF THE PATH",
+   "lines": [
+    "Every decision leads down a single path.",
+    "Say: “This is your path. There’s no turning back.”",
+    "Psycho doesn’t give them options.",
+    "He directs them down one single road.",
+    "There is no right or left.",
+    "There is only forward, to the truth.",
+    "Once they walk, they have no choice but to follow.",
+    "Psycho doesn’t let them choose.",
+    "He forces them onto the path they were always meant to walk."
+   ],
+   "num": 53,
+   "title_tc": "The Truth of the Path"
+  },
+  {
+   "old": 57,
+   "title": "THE SELF-REVELATION",
+   "lines": [
+    "Sales are about revealing the truth within.",
+    "Say: “This isn’t just about buying. This is about your revelation.”",
+    "The decision they make is not about the product.",
+    "It’s about them seeing the truth they’ve been avoiding.",
+    "Psycho doesn’t sell to the mind.",
+    "He sells to their soul.",
+    "Every product sold isn’t just a sale.",
+    "It’s a transformation.",
+    "Once they see the truth, they can’t deny it.",
+    "Psycho doesn’t convince. He reveals the truth."
+   ],
+   "num": 54,
+   "title_tc": "The Self-Revelation"
+  },
+  {
+   "old": 58,
+   "title": "THE QUESTION OF PURPOSE",
+   "lines": [
+    "Purpose isn’t just what they need.",
+    "It’s the reason they exist.",
+    "Say: “This decision will define your purpose in this world.”",
+    "Psycho doesn’t sell products.",
+    "He offers a pathway to their purpose.",
+    "Every decision they make, they embody their purpose.",
+    "Psycho’s mission isn’t about the sale.",
+    "It’s about aligning their soul with their true purpose.",
+    "Once they walk the path, they become it."
+   ],
+   "num": 55,
+   "title_tc": "The Question of Purpose"
+  },
+  {
+   "old": 59,
+   "title": "THE FINAL JUDGEMENT",
+   "lines": [
+    "Every decision is judged.",
+    "Say: “This is your judgment. There is no going back.”",
+    "Psycho doesn’t ask for agreement.",
+    "He asks for decision.",
+    "The judgment is final.",
+    "The future is decided.",
+    "There’s no room for hesitation.",
+    "Psycho doesn’t give them a chance to reconsider.",
+    "The decision is final, and the future is sealed."
+   ],
+   "num": 56,
+   "title_tc": "The Final Judgment"
+  },
+  {
+   "old": 60,
+   "title": "THE INEVITABLE MOVE",
+   "lines": [
+    "Every sale is about movement.",
+    "Say: “Once you decide, you will never go back.”",
+    "The decision is not just about what they’re buying.",
+    "It’s about them taking action that can never be undone.",
+    "Psycho doesn’t ask them to think.",
+    "He makes them act — and in that act, their future is set.",
+    "The decision sets them in motion.",
+    "Psycho forces their hand and they move with inevitability.",
+    "The future begins with action.",
+    "Once they decide, the shift is made."
+   ],
+   "num": 57,
+   "title_tc": "The Inevitable Move"
+  },
+  {
+   "old": 61,
+   "title": "THE FORCE OF NATURE",
+   "lines": [
+    "You are not just selling.",
+    "You are creating a force that moves them.",
+    "Say: “You are already where you need to be. Let’s go.”",
+    "Psycho doesn’t ask for their action.",
+    "He forces them to move, through the sheer presence of his will.",
+    "The force is irresistible, because it’s based on truth.",
+    "Psycho doesn’t need permission.",
+    "He commands their movement, making them feel it.",
+    "Once they feel it, there’s no turning back."
+   ],
+   "num": 58,
+   "title_tc": "The Force of Nature"
+  },
+  {
+   "old": 62,
+   "title": "THE FINAL VERDICT",
+   "lines": [
+    "Every decision is final.",
+    "There is no hesitation. There is no turning back.",
+    "Say: “The only question left is, will you accept your future now?”",
+    "Psycho doesn’t let them retreat.",
+    "He forces them to accept the decision they’ve already made.",
+    "Once they say yes, their future is rewritten.",
+    "The decision is made.",
+    "Their reality begins anew."
+   ],
+   "num": 59,
+   "title_tc": "The Final Verdict"
+  },
+  {
+   "old": 63,
+   "title": "THE DECISION IS A TRUTH",
+   "lines": [
+    "A decision isn’t about choice.",
+    "It’s about truth.",
+    "Say: “This is the truth of what you need. Don’t ignore it.”",
+    "Psycho doesn’t give them options.",
+    "He gives them truth, and the decision becomes inevitable.",
+    "The decision isn’t a question.",
+    "It’s a realization of what’s already inside them.",
+    "They just need to accept it."
+   ],
+   "num": 60,
+   "title_tc": "The Decision Is a Truth"
+  },
+  {
+   "old": 64,
+   "title": "THE ART OF THE CLOSE",
+   "lines": [
+    "Every sale is a game of positioning.",
+    "You are not selling a product — you are selling time.",
+    "Ask: “How much time will you waste before saying yes?”",
+    "Sales are a battle of commitment versus comfort.",
+    "Comfort is the enemy of progress.",
+    "You don’t need to persuade them to buy.",
+    "You need to make them feel the weight of their hesitation.",
+    "Your job is to make the decision seem inevitable.",
+    "Psycho doesn’t beg for yes. He forces the decision.",
+    "The moment they say yes, they have already lost the option to say no.",
+    "Positioning is never about what’s in the product.",
+    "It’s about making them understand they need it now."
+   ],
+   "num": 61,
+   "title_tc": "The Art of the Close"
+  },
+  {
+   "old": 65,
+   "title": "THE SILENT COMMANDING CLOSE",
+   "lines": [
+    "The silence in a room speaks louder than a thousand words.",
+    "Every hesitation is a silent cry for certainty.",
+    "In that silence, you don’t wait for them to speak.",
+    "You command them with your presence.",
+    "Say: “Don’t answer. Just make the decision in silence.”",
+    "This silence will shatter their resistance.",
+    "Psycho doesn’t rely on words.",
+    "He relies on commanding silence to make the decision inevitable."
+   ],
+   "num": 62,
+   "title_tc": "The Silent Commanding Close"
+  },
+  {
+   "old": 69,
+   "title": "THE FINAL EDGE",
+   "lines": [
+    "Every sale comes to an edge.",
+    "You stand at that edge, staring into their future.",
+    "Say: “This is the moment that defines everything that comes after it.”",
+    "The edge isn’t the end.",
+    "It’s the beginning of something unshakable.",
+    "When they decide, they are no longer the same.",
+    "You’ve reshaped their mind and body.",
+    "Psycho doesn’t close deals.",
+    "He redefines lives with each close."
+   ],
+   "num": 63,
+   "title_tc": "The Final Edge"
+  },
+  {
+   "old": 70,
+   "title": "THE MIND-BENDING OFFER",
+   "lines": [
+    "Make your offer a concept, not a product.",
+    "An offer is never just a transaction; it’s a pathway.",
+    "The moment you speak, they must see themselves on that path.",
+    "Say: “This is your future. You either take it, or watch it pass by.”",
+    "The fear isn’t the money.",
+    "The fear is the loss of opportunity.",
+    "They must see that they won’t get another chance.",
+    "Psycho’s offer doesn’t wait. It demands action.",
+    "Your offer must transcend logic and demand existential decision.",
+    "You are not offering a product.",
+    "You are offering their transformation."
+   ],
+   "num": 64,
+   "title_tc": "The Mind-Bending Offer"
+  },
+  {
+   "old": 71,
+   "title": "THE FINAL PUSH",
+   "lines": [
+    "The final push is the moment of certainty.",
+    "Say: “You’ve already decided. Now make it real.”",
+    "The decision is already made.",
+    "Psycho doesn’t need to push further.",
+    "He simply guides them to the inevitable conclusion."
+   ],
+   "num": 65,
+   "title_tc": "The Final Push"
+  },
+  {
+   "old": 73,
+   "title": "THE PRESSURE OF DECISION",
+   "lines": [
+    "Decisions are not optional.",
+    "Every decision holds the weight of eternity.",
+    "When you ask for a decision, you don’t just ask for commitment.",
+    "You ask for their soul to make peace with their own choice.",
+    "Make them feel the consequence of hesitation.",
+    "Say: “The price of indecision is more than money. It’s time.”",
+    "Psycho doesn’t give them choices.",
+    "He gives them truth in its most raw form.",
+    "This isn’t just about closing a deal.",
+    "It’s about closing their past and opening their future."
+   ],
+   "num": 66,
+   "title_tc": "The Pressure of Decision"
+  },
+  {
+   "old": 74,
+   "title": "THE MIND GAME",
+   "lines": [
+    "Selling isn’t just about words.",
+    "It’s a mind game.",
+    "Say: “You’ve already decided. Now let’s just finish the process.”",
+    "Once their mind locks in, the decision is already made.",
+    "You aren’t pushing them.",
+    "You’re simply guiding their mind to the inevitable conclusion.",
+    "Psycho doesn’t fight the mind.",
+    "He makes it bend to his will.",
+    "The decision is not just logical.",
+    "It’s preordained, and Psycho makes them realize it."
+   ],
+   "num": 67,
+   "title_tc": "The Mind Game"
+  },
+  {
+   "old": 75,
+   "title": "THE SHIFTING MOMENT",
+   "lines": [
+    "The moment of decision is a shift in energy.",
+    "Say: “This is not just a sale. This is your transformation.”",
+    "The moment they feel it, the decision becomes irresistible.",
+    "Psycho doesn’t just change their circumstances.",
+    "He transforms their existence.",
+    "Once they accept the shift, the sale is already done."
+   ],
+   "num": 68,
+   "title_tc": "The Shifting Moment"
+  },
+  {
+   "old": 76,
+   "title": "THE INVISIBLE CONTRACT",
+   "lines": [
+    "The moment they agree to speak with you, a contract is signed.",
+    "They don’t know it, but it’s already in motion.",
+    "Say: “You’ve already agreed in your mind. We’re just finalizing it.”",
+    "Psycho doesn’t wait for their conscious agreement.",
+    "He moves them subconsciously toward the decision.",
+    "By the time they realize it, they’ve already signed."
+   ],
+   "num": 69,
+   "title_tc": "The Invisible Contract"
+  },
+  {
+   "old": 77,
+   "title": "THE IMPRINT OF ACTION",
+   "lines": [
+    "Every action you take imprints itself on their soul.",
+    "Say: “The decision is yours, and it’s already made.”",
+    "Psycho doesn’t wait for them to take action.",
+    "He makes them feel it before they even speak.",
+    "Their future is already etched.",
+    "It’s the final step before they accept the offer.",
+    "Psycho’s actions imprint upon them as if written in stone.",
+    "Their decision becomes part of them, never to be undone."
+   ],
+   "num": 70,
+   "title_tc": "The Imprint of Action"
+  },
+  {
+   "old": 78,
+   "title": "THE COERCION OF THE MIND",
+   "lines": [
+    "Their mind is your tool.",
+    "Say: “This decision is already inside you. We’re just bringing it out.”",
+    "Psycho doesn’t fight the mind.",
+    "He makes them feel the truth they’ve been avoiding.",
+    "Once they feel the decision deep in their mind, the choice is made.",
+    "The mind is now coerced into making the inevitable move."
+   ],
+   "num": 71,
+   "title_tc": "The Coercion of the Mind"
+  },
+  {
+   "old": 79,
+   "title": "THE URGENCY OF NOW",
+   "lines": [
+    "There is no tomorrow.",
+    "There is only now.",
+    "Say: “What’s stopping you from acting right now?”",
+    "Psycho doesn’t wait.",
+    "He makes them act now, without hesitation.",
+    "Time doesn’t wait, and neither should they.",
+    "The decision is always now, and that urgency makes the sale."
+   ],
+   "num": 72,
+   "title_tc": "The Urgency of Now"
+  },
+  {
+   "old": 80,
+   "title": "THE FINAL JUDGEMENT",
+   "lines": [
+    "The final decision isn’t just a choice.",
+    "It’s a judgment.",
+    "Say: “This is your judgment. There is no going back.”",
+    "Psycho doesn’t wait for them to decide.",
+    "He makes them realize they’ve already made their decision.",
+    "The decision is final, and it’s already written."
+   ],
+   "num": 73,
+   "title_tc": "The Final Judgment"
+  },
+  {
+   "old": 81,
+   "title": "THE INFALLIBLE DECISION",
+   "lines": [
+    "Once the decision is made, there is no turning back.",
+    "Say: “This is it. Your path is set now.”",
+    "Psycho doesn’t hesitate, and neither should they.",
+    "Their decision is etched in time, unchangeable.",
+    "Every move they make is now part of their chosen path.",
+    "Psycho doesn’t ask for permission to close.",
+    "He simply forces the decision to its conclusion.",
+    "The decision is final — and unavoidable.",
+    "Once the decision is made, there is no room for doubt.",
+    "The decision becomes the new reality."
+   ],
+   "num": 74,
+   "title_tc": "The Infallible Decision"
+  },
+  {
+   "old": 82,
+   "title": "THE FINALITY OF ACTION",
+   "lines": [
+    "Action is where transformation happens.",
+    "Say: “You have to act now. Your future depends on it.”",
+    "Once they take action, they can no longer turn back.",
+    "Psycho doesn’t wait for the perfect moment.",
+    "He makes them act, right now, before the moment slips away.",
+    "The action seals the deal and changes their future forever.",
+    "Once they act, the choice is already made.",
+    "The hesitation is over.",
+    "Psycho doesn’t let them think.",
+    "He makes them move."
+   ],
+   "num": 75,
+   "title_tc": "The Finality of Action"
+  },
+  {
+   "old": 83,
+   "title": "THE TIMELESS CLOSE",
+   "lines": [
+    "Time is the most powerful force.",
+    "Say: “This is your moment. Don’t waste it.”",
+    "Psycho doesn’t give them time to think.",
+    "He makes them realize they are out of time.",
+    "The decision is now.",
+    "There is no room for delays.",
+    "Once they realize time is running out, the decision becomes inevitable.",
+    "Psycho doesn’t offer a chance to wait.",
+    "He makes them feel the weight of time.",
+    "The sale closes when time becomes the enemy."
+   ],
+   "num": 76,
+   "title_tc": "The Timeless Close"
+  },
+  {
+   "old": 84,
+   "title": "THE DECISION OF THE HEART",
+   "lines": [
+    "People buy based on emotion, not logic.",
+    "Say: “This decision will change everything for you.”",
+    "Psycho doesn’t speak to their minds.",
+    "He speaks to their hearts.",
+    "The decision is not about what they need, but what they feel.",
+    "The heart doesn’t lie.",
+    "Once they make the decision, it resonates deep inside them.",
+    "Psycho doesn’t convince.",
+    "He makes them feel the truth.",
+    "The sale is emotional, and once the heart agrees, there’s no turning back."
+   ],
+   "num": 77,
+   "title_tc": "The Decision of the Heart"
+  },
+  {
+   "old": 85,
+   "title": "THE CRISIS OF DECISION",
+   "lines": [
+    "Every decision is a crisis they must face.",
+    "Say: “What are you waiting for? Your future is already here.”",
+    "Psycho doesn’t let them escape.",
+    "He makes the crisis unavoidable.",
+    "The longer they wait, the worse the crisis becomes.",
+    "Psycho doesn’t let them hide from the truth.",
+    "He forces them to confront their hesitation.",
+    "The decision must be made, and it must be made now.",
+    "Once they face the crisis, the choice is clear.",
+    "Psycho pushes them into the inevitable decision."
+   ],
+   "num": 78,
+   "title_tc": "The Crisis of Decision"
+  },
+  {
+   "old": 86,
+   "title": "THE WILL OF THE CLIENT",
+   "lines": [
+    "Their will is your tool.",
+    "Say: “You’ve already made the decision. I’m just helping you realize it.”",
+    "Psycho doesn’t fight their will.",
+    "He reinforces it, making them see that their will is aligned with their future.",
+    "Once their will is behind the decision, they cannot resist.",
+    "Psycho guides them to reaffirm their choice.",
+    "Their decision is already made.",
+    "Psycho makes them feel their own will, guiding it toward action.",
+    "The will becomes unstoppable, like momentum in motion."
+   ],
+   "num": 79,
+   "title_tc": "The Will of the Client"
+  },
+  {
+   "old": 87,
+   "title": "THE BEYOND-TIME CLOSE",
+   "lines": [
+    "Every close happens beyond time.",
+    "Say: “This is not just a deal; it’s a turning point.”",
+    "Psycho doesn’t operate within time.",
+    "He operates beyond it, where decision is eternal.",
+    "Once the decision is made, it transcends time and becomes destiny.",
+    "The decision is locked in place forever.",
+    "Psycho doesn’t need to push.",
+    "He makes them realize the eternity of the choice.",
+    "Once they decide, they cannot escape.",
+    "The decision becomes a timeless reality."
+   ],
+   "num": 80,
+   "title_tc": "The Beyond-Time Close"
+  },
+  {
+   "old": 88,
+   "title": "THE INVISIBLE CONTRACT",
+   "lines": [
+    "The moment they say yes, a contract is signed.",
+    "Say: “This is the decision that will shape your future.”",
+    "Psycho doesn’t need to ask for agreement.",
+    "He makes them feel the contract they’ve already signed.",
+    "It’s invisible but unbreakable.",
+    "Once they agree, the choice is final.",
+    "Psycho doesn’t rely on paper.",
+    "He relies on the invisible contract that binds them to their future.",
+    "Every word they speak solidifies the unseen contract."
+   ],
+   "num": 81,
+   "title_tc": "The Invisible Contract"
+  },
+  {
+   "old": 89,
+   "title": "THE FINAL TURNING POINT",
+   "lines": [
+    "Every sale is a turning point in their journey.",
+    "Say: “This is the moment that defines your future.”",
+    "Psycho doesn’t just close deals.",
+    "He changes destinies with each turning point.",
+    "Once they accept, they turn their back on their past.",
+    "The sale isn’t a transaction.",
+    "It’s the revelation of their destiny.",
+    "Psycho doesn’t just offer a product.",
+    "He offers the path to transformation.",
+    "When they accept, they walk a new path."
+   ],
+   "num": 82,
+   "title_tc": "The Final Turning Point"
+  },
+  {
+   "old": 90,
+   "title": "THE DECISION-MAKING SYMPHONY",
+   "lines": [
+    "Sales are not just about words.",
+    "They are a symphony of influence.",
+    "Say: “This decision is part of your transformation.”",
+    "Psycho doesn’t speak randomly.",
+    "Every word is part of a cohesive symphony that drives them to action.",
+    "The closer they get to the decision, the more they hear the perfect rhythm of inevitability.",
+    "Psycho doesn’t rely on logic.",
+    "He relies on the music of decision, making them feel it in their bones.",
+    "Once they feel it, the decision is unstoppable."
+   ],
+   "num": 83,
+   "title_tc": "The Decision-Making Symphony"
+  },
+  {
+   "old": 91,
+   "title": "THE GUILT OF INACTION",
+   "lines": [
+    "Inaction leads to guilt.",
+    "Say: “What will you regret more, saying yes or saying no?”",
+    "Psycho doesn’t let them live with regret.",
+    "He makes them feel the weight of inaction.",
+    "Once they feel the guilt, the decision is made.",
+    "Psycho doesn’t wait for them to think.",
+    "He forces them to feel the cost of hesitation.",
+    "The decision becomes clearer once the guilt sets in."
+   ],
+   "num": 84,
+   "title_tc": "The Guilt of Inaction"
+  },
+  {
+   "old": 92,
+   "title": "THE FINAL SHIFT",
+   "lines": [
+    "Every decision leads to a shift.",
+    "Say: “This decision will change everything. Are you ready?”",
+    "Psycho doesn’t just sell.",
+    "He creates a shift in their reality.",
+    "Once the decision is made, they shift into a new world.",
+    "The old world is left behind.",
+    "Psycho doesn’t wait for them to adapt.",
+    "He makes them embrace the shift immediately.",
+    "The decision becomes their new life."
+   ],
+   "num": 85,
+   "title_tc": "The Final Shift"
+  },
+  {
+   "old": 93,
+   "title": "THE DIVINE TENSION",
+   "lines": [
+    "Tension is the energy that drives decisions.",
+    "Say: “The more you resist, the stronger the force grows.”",
+    "Psycho doesn’t ease the tension.",
+    "He builds it, making them feel the weight of their decision.",
+    "The tension isn’t something to avoid.",
+    "It’s something to embrace because it leads to growth.",
+    "Psycho doesn’t let them back out.",
+    "He makes them feel the pressure, until they can’t resist.",
+    "The decision is inevitable, and the tension only makes it stronger."
+   ],
+   "num": 86,
+   "title_tc": "The Divine Tension"
+  },
+  {
+   "old": 94,
+   "title": "THE FINALITY OF YES",
+   "lines": [
+    "The moment they say yes, everything changes.",
+    "Say: “This is your decision. Welcome to the future.”",
+    "Psycho doesn’t wait for them to question.",
+    "Once they say yes, the decision is made.",
+    "Everything after that moment is history.",
+    "The yes is the beginning of their transformation.",
+    "Once it’s said, the past is over.",
+    "Psycho doesn’t need to convince them to say yes.",
+    "He makes it unavoidable.",
+    "The moment they agree, the new path begins."
+   ],
+   "num": 87,
+   "title_tc": "The Finality of Yes"
+  },
+  {
+   "old": 95,
+   "title": "THE UNSEEN CONTROL",
+   "lines": [
+    "What’s unseen is the most powerful tool.",
+    "Say: “You don’t need to see it to believe it.”",
+    "Psycho doesn’t show them the way.",
+    "He makes them feel the force pushing them forward.",
+    "They don’t need to see the product.",
+    "They need to feel the necessity inside them.",
+    "Psycho guides them with energy that cannot be seen.",
+    "The unseen control is what leads them to the decision.",
+    "Psycho doesn’t show them the way; he forces them to feel it."
+   ],
+   "num": 88,
+   "title_tc": "The Unseen Control"
+  },
+  {
+   "old": 96,
+   "title": "THE EXTERNAL PRESSURE",
+   "lines": [
+    "Pressure isn’t something you give.",
+    "It’s something you create.",
+    "Say: “The decision isn’t for tomorrow. It’s now.”",
+    "Psycho doesn’t wait for them to feel the pressure.",
+    "He makes them feel it immediately.",
+    "The moment they hesitate, they feel the pressure mounting.",
+    "Psycho doesn’t push.",
+    "He makes them realize the inevitability of their decision.",
+    "The external pressure they feel is just the beginning."
+   ],
+   "num": 89,
+   "title_tc": "The External Pressure"
+  },
+  {
+   "old": 97,
+   "title": "THE MIND BENDER",
+   "lines": [
+    "Your mind is a tool.",
+    "Say: “You’ve already decided. Now make it happen.”",
+    "Psycho doesn’t need to manipulate the mind.",
+    "He makes it bend to his will.",
+    "The decision isn’t about thinking.",
+    "It’s about reprogramming their mind to see what’s necessary.",
+    "Psycho doesn’t fight their resistance.",
+    "He makes them feel the mind’s consent.",
+    "The mind doesn’t have a choice once Psycho speaks.",
+    "The decision isn’t theirs to make.",
+    "It’s already decided for them."
+   ],
+   "num": 90,
+   "title_tc": "The Mind Bender"
+  },
+  {
+   "old": 98,
+   "title": "THE UNSEEN FORCE",
+   "lines": [
+    "What can’t be seen drives everything.",
+    "Say: “You don’t need to see it to believe it.”",
+    "Psycho doesn’t show them the way.",
+    "He makes them feel the force that pulls them.",
+    "The unseen guides them, and they don’t even realize it.",
+    "Psycho doesn’t need to explain the product.",
+    "He lets them feel the urgency without seeing it.",
+    "The unseen force compels their decision.",
+    "Psycho doesn’t need to convince them with logic.",
+    "He makes them realize the force of truth within them.",
+    "It’s unseen but undeniable."
+   ],
+   "num": 91,
+   "title_tc": "The Unseen Force"
+  },
+  {
+   "old": 99,
+   "title": "THE FINISHING MOVE",
+   "lines": [
+    "Once they say yes, the sale is finished.",
+    "Say: “You’ve made your choice. There’s no going back.”",
+    "Psycho doesn’t leave room for second-guessing.",
+    "He forces them to commit with full clarity.",
+    "The sale isn’t a transaction.",
+    "It’s a commitment to the future.",
+    "Once they decide, it’s a sealed fate.",
+    "Psycho doesn’t wait for them to be ready.",
+    "He makes them decide when it’s time.",
+    "The decision is final.",
+    "And the future begins now."
+   ],
+   "num": 92,
+   "title_tc": "The Finishing Move"
+  },
+  {
+   "old": 100,
+   "title": "THE UNSTOPPABLE SHIFT",
+   "lines": [
+    "The moment of shift is unstoppable.",
+    "Say: “This is not just a sale. It’s a transformation.”",
+    "Psycho doesn’t just close.",
+    "He creates a shift in their reality.",
+    "Once the shift happens, it’s no longer a choice.",
+    "They have entered a new dimension.",
+    "Psycho doesn’t make deals.",
+    "He shifts realities, forcing them to walk a new path.",
+    "There is no turning back.",
+    "Once they make the decision, they cannot go back.",
+    "The shift is final."
+   ],
+   "num": 93,
+   "title_tc": "The Unstoppable Shift"
+  },
+  {
+   "old": 100,
+   "title": "THE PSYCHO EVOLUTION POINT",
+   "lines": [
+    "The sale is not the end — it’s the mutation.",
+    "Say: “You will not return to this version once you say yes.”",
+    "This moment is irreversible.",
+    "You are not selling a product.",
+    "You are offering evolution stamped into identity.",
+    "Let them feel the shiver.",
+    "No backspace. No reversal.",
+    "Once yes is said, the rewrite begins.",
+    "You are not convincing.",
+    "You are transforming.",
+    "Psycho Sellers don’t push — they mutate minds.",
+    "This is where the real mission starts."
+   ],
+   "num": 94,
+   "title_tc": "The Psycho Evolution Point"
+  },
+  {
+   "old": 101,
+   "title": "THE INTERNAL SNAP",
+   "lines": [
+    "Every resistance has a breaking point.",
+    "Say: “You’re holding on to the version of you that dies today.”",
+    "Let them snap internally.",
+    "You don’t break them.",
+    "You reveal they were already cracked.",
+    "Snap = release.",
+    "Once snapped, they surrender.",
+    "Let your energy be the hammer.",
+    "You are not loud.",
+    "You are accurate.",
+    "One line — one crack — one collapse.",
+    "The sale drops from inside."
+   ],
+   "num": 95,
+   "title_tc": "The Internal Snap"
+  },
+  {
+   "old": 102,
+   "title": "THE FINAL EGO SLAP",
+   "lines": [
+    "Say: “This ego is the reason you’re stuck.”",
+    "Expose their defense.",
+    "Don’t attack them.",
+    "Attack what protects their delay.",
+    "Ego wants to be right.",
+    "Make it feel weak.",
+    "Strip the pride, reveal the fear.",
+    "Say: “I’m not against you — I’m against your cage.”",
+    "Now invite them forward.",
+    "The slap isn’t humiliation.",
+    "It’s awakening.",
+    "Now they beg to evolve."
+   ],
+   "num": 96,
+   "title_tc": "The Final Ego Slap"
+  },
+  {
+   "old": 103,
+   "title": "THE GUTLINE",
+   "lines": [
+    "Say one line that hits the gut.",
+    "Example: “Every day you delay, your future shrinks.”",
+    "Let it hurt.",
+    "You are not apologizing.",
+    "You are pressing the nerve.",
+    "Gutlines are not motivational.",
+    "They are confrontational.",
+    "Short. Sharp. Surgical.",
+    "Your gutline becomes the moment.",
+    "And the moment becomes the decision."
+   ],
+   "num": 97,
+   "title_tc": "The Gutline"
+  },
+  {
+   "old": 104,
+   "title": "THE GLASS SMASH",
+   "lines": [
+    "Ask: “If you looked at your life like a window — what do you see?”",
+    "Then say: “Now let’s break it.”",
+    "Smash the frame they live in.",
+    "This isn’t a pitch.",
+    "This is a riot inside their perception.",
+    "You’re not showing a better view.",
+    "You’re offering glass shards — and a way out.",
+    "Break. Bleed. Rebuild.",
+    "That’s the Psycho art."
+   ],
+   "num": 98,
+   "title_tc": "The Glass Smash"
+  },
+  {
+   "old": 105,
+   "title": "THE FUTURE COLLAPSE",
+   "lines": [
+    "Say: “This is the future knocking. Will you answer or ignore it again?”",
+    "Make their tomorrow enter the present.",
+    "You don’t sell vision.",
+    "You sell pressure from the future.",
+    "Bring the consequence closer.",
+    "Collapse their timeline.",
+    "There is no future left.",
+    "There’s only what’s done now.",
+    "That’s how Psycho closes in time."
+   ],
+   "num": 99,
+   "title_tc": "The Future Collapse"
+  },
+  {
+   "old": 106,
+   "title": "THE REFLECTIVE BURN",
+   "lines": [
+    "Say: “How long will you keep lying to yourself?”",
+    "Then stop.",
+    "Let them reflect in the burn.",
+    "Truth is a mirror that cuts.",
+    "Hold it up with no fear.",
+    "Reflection becomes revelation.",
+    "Once they see — they can’t unsee.",
+    "That’s where decisions are born.",
+    "From the ashes of reflection."
+   ],
+   "num": 100,
+   "title_tc": "The Reflective Burn"
+  },
+  {
+   "old": 107,
+   "title": "THE DEATH OF OPTION B",
+   "lines": [
+    "Say: “There is no Option B. Only regression.”",
+    "People love backup plans.",
+    "Burn it.",
+    "You offer one path.",
+    "No backup.",
+    "No plan B.",
+    "Just decision and destruction of everything else.",
+    "That’s how Psycho makes their yes holy.",
+    "Because it’s the only one left standing."
+   ],
+   "num": 101,
+   "title_tc": "The Death of Option B"
+  },
+  {
+   "old": 108,
+   "title": "THE SELF-BET SCRIPT",
+   "lines": [
+    "Say: “Every time you say no, you bet against yourself.”",
+    "Make them realize — the opponent is their past self.",
+    "They are not buying from you.",
+    "They are betting on their evolution.",
+    "The sale becomes sacred.",
+    "The bet becomes personal.",
+    "You don’t push.",
+    "You raise the stakes.",
+    "Let them say yes to their own gamble."
+   ],
+   "num": 102,
+   "title_tc": "The Self-Bet Script"
+  },
+  {
+   "old": 109,
+   "title": "THE PRESSURE MUTE",
+   "lines": [
+    "Turn down your tone.",
+    "Say: “You already know what to do. I’m just waiting.”",
+    "No pressure.",
+    "Just muted dominance.",
+    "Let them drown in their own silence.",
+    "You don’t sell by volume.",
+    "You sell by stillness.",
+    "The more you mute, the more they move.",
+    "Because now the voice in their head is louder than yours."
+   ],
+   "num": 103,
+   "title_tc": "The Pressure Mute"
+  },
+  {
+   "old": 110,
+   "title": "THE IRON SCRIPT",
+   "lines": [
+    "Say: “These words are not sales. They are law.”",
+    "Deliver your script like a commandment.",
+    "Every word must feel carved in steel.",
+    "No stutter.",
+    "No softness.",
+    "Just pure impact.",
+    "They don’t respond.",
+    "They submit.",
+    "You don’t adjust.",
+    "You burn the page into their memory.",
+    "That’s how Psycho closes with iron."
+   ],
+   "num": 104,
+   "title_tc": "The Iron Script"
+  },
+  {
+   "old": 111,
+   "title": "THE UNHEARD CLOSE",
+   "lines": [
+    "Say: “I’m going to say this once. If you miss it, it’s gone.”",
+    "Scarcity in sound.",
+    "Make your pitch unrepeatable.",
+    "That forces presence.",
+    "No replays.",
+    "No summaries.",
+    "They either close now — or lose forever.",
+    "Your voice becomes time-sensitive.",
+    "And that time ends in 3…2…1…"
+   ],
+   "num": 105,
+   "title_tc": "The Unheard Close"
+  },
+  {
+   "old": 112,
+   "title": "THE FUTURE FUNERAL",
+   "lines": [
+    "Say: “We’re not closing a deal. We’re burying the version of you that waits.”",
+    "Let them feel like this call is the eulogy.",
+    "They came here to die — and rise.",
+    "You don’t offer a path.",
+    "You offer a tombstone and a door.",
+    "Let them step through.",
+    "Every yes starts with a burial."
+   ],
+   "num": 106,
+   "title_tc": "The Future Funeral"
+  },
+  {
+   "old": 113,
+   "title": "THE DEEP PULL",
+   "lines": [
+    "Don’t speak to their fear.",
+    "Speak to the self they abandoned.",
+    "Say: “I know the version of you that was bold. Where is it?”",
+    "That pull is deep.",
+    "It skips logic.",
+    "Goes straight to memory.",
+    "Now ask: “Want to wake it up again?”",
+    "That’s not sales.",
+    "That’s soul retrieval."
+   ],
+   "num": 107,
+   "title_tc": "The Deep Pull"
+  },
+  {
+   "old": 114,
+   "title": "THE FOG CUTTER",
+   "lines": [
+    "Say: “Let me make it clear — nothing changes unless you act now.”",
+    "Clarity kills confusion.",
+    "Cut the fog.",
+    "Don’t explain more.",
+    "Just deliver the blade of clarity.",
+    "People drown in maybe.",
+    "You offer a sword.",
+    "And that sword carves yes from the smoke."
+   ],
+   "num": 108,
+   "title_tc": "The Fog Cutter"
+  },
+  {
+   "old": 115,
+   "title": "THE BODY TRIGGER",
+   "lines": [
+    "Make their body feel the decision.",
+    "Say: “Feel that tightness in your chest? That’s your soul trying to break out.”",
+    "You don’t sell with logic.",
+    "You activate their nervous system.",
+    "Let them sweat.",
+    "Let them breathe faster.",
+    "Then say: “You’re not afraid. You’re awakening.”",
+    "Now close. While the body is still alive."
+   ],
+   "num": 109,
+   "title_tc": "The Body Trigger"
+  },
+  {
+   "old": 116,
+   "title": "THE LAST DOOR",
+   "lines": [
+    "Say: “This is the last door before you lose access.”",
+    "Not pressure — permanence.",
+    "Let them feel that doors do close.",
+    "Forever.",
+    "Not a sales tactic.",
+    "Universal law.",
+    "If they don’t walk through — it’s gone.",
+    "You are the final gatekeeper.",
+    "And the door closes with silence."
+   ],
+   "num": 110,
+   "title_tc": "The Last Door"
+  },
+  {
+   "old": 117,
+   "title": "THE SUFFERING UPGRADE",
+   "lines": [
+    "You are not here to ease pain — you are here to assign meaning to it.",
+    "Say: “You’ve been suffering for free. Now suffer for evolution.”",
+    "Pain without progress is punishment.",
+    "Your product is not comfort. It’s redirection of agony.",
+    "Don’t remove their discomfort — aim it.",
+    "Make them see that staying stuck is also a choice.",
+    "Say: “You’re already paying the price. Why not get the reward?”",
+    "Let the silence burn. Let the truth wound.",
+    "Their excuses are borrowed. Their suffering is theirs.",
+    "You offer a mirror, not a massage.",
+    "Sell evolution. Sell pain with a direction."
+   ],
+   "num": 111,
+   "title_tc": "The Suffering Upgrade"
+  },
+  {
+   "old": 118,
+   "title": "THE DETACHMENT BLADE",
+   "lines": [
+    "You care so much, it looks like you don’t care at all.",
+    "You are presence without need, closeness without emotion.",
+    "When they say “I’ll think about it,” respond:",
+    "“I don’t sell to the version that needs to think. I speak to the one that acts.”",
+    "Let them feel your detachment like a slash.",
+    "Need is noise. Clarity is quiet.",
+    "Stay still. Let them break first.",
+    "You are not trying to save them.",
+    "You are reminding them they can rise — or rot.",
+    "You do not chase. You carve the path and walk.",
+    "Only the bold follow."
+   ],
+   "num": 112,
+   "title_tc": "The Detachment Blade"
+  },
+  {
+   "old": 119,
+   "title": "THE UNHOLY PAUSE",
+   "lines": [
+    "Silence is not absence. It’s weaponized delay.",
+    "After a powerful line, go dead quiet.",
+    "No breath. No follow-up.",
+    "Just let their own thoughts assault them.",
+    "Silence will do what words never can.",
+    "They will hear their hesitation scream back.",
+    "Pause until they speak.",
+    "If they don’t, you’ve still won.",
+    "Because now you exist in their nervous system.",
+    "You don’t close with talking.",
+    "You close with presence so heavy, they collapse into yes."
+   ],
+   "num": 113,
+   "title_tc": "The Unholy Pause"
+  },
+  {
+   "old": 120,
+   "title": "THE PSYCHO PRESSURE LOOP",
+   "lines": [
+    "Speak in circles that shrink.",
+    "Each round, remove their excuses.",
+    "“You said time. That’s gone.”",
+    "“You said money. That’s handled.”",
+    "“You said clarity. We crossed that.”",
+    "Now what’s left?",
+    "Them.",
+    "Themselves.",
+    "You close loops until there’s only their face in the mirror.",
+    "The loop becomes a trap.",
+    "And you’re the architect of their breakthrough.",
+    "The final loop? “So what’s stopping you now?”",
+    "Boom. Done."
+   ],
+   "num": 114,
+   "title_tc": "The Psycho Pressure Loop"
+  },
+  {
+   "old": 121,
+   "title": "MENTAL COLLAPSE STRATEGY",
+   "lines": [
+    "You’re not here to inspire. You’re here to deconstruct.",
+    "Pull apart every piece of their comfort logic.",
+    "Say: “What has comfort ever created for you?”",
+    "Then say nothing.",
+    "Most clients are architects of their own limitation.",
+    "You are the earthquake.",
+    "Ruin their justifications with raw exposure.",
+    "When they say “I need time,” say:",
+    "“You’ve needed time for 10 years. Look where that got you.”",
+    "Shake them until only truth stands."
+   ],
+   "num": 115,
+   "title_tc": "Mental Collapse Strategy"
+  },
+  {
+   "old": 122,
+   "title": "THE NOISE KILLER",
+   "lines": [
+    "Too much talking is a mask.",
+    "Slice it off.",
+    "Say only what needs to be said — once.",
+    "Repeat only if you want it to land deeper.",
+    "Otherwise, say it once, then go cold.",
+    "Their confusion is your scalpel.",
+    "Say: “You don’t need more info. You need to decide.”",
+    "Don’t explain. Don’t justify.",
+    "Silence their overthinking with your simplicity.",
+    "Kill noise. Create clarity.",
+    "That’s how decisions are born."
+   ],
+   "num": 116,
+   "title_tc": "The Noise Killer"
+  },
+  {
+   "old": 123,
+   "title": "THE FATAL MIRROR",
+   "lines": [
+    "Ask: “What’s the cost of staying the same?”",
+    "Then repeat: “Say it again.”",
+    "Let them hear themselves admit it.",
+    "Now mirror it back: “So you’re okay with that?”",
+    "They will break.",
+    "Most people have never spoken their own chains aloud.",
+    "You make them vocalize their stagnation.",
+    "Then you say:",
+    "“Now tell me what it feels like to break it.”",
+    "Let that image pull them into the sale."
+   ],
+   "num": 117,
+   "title_tc": "The Fatal Mirror"
+  },
+  {
+   "old": 124,
+   "title": "THE 7-SECOND WAR",
+   "lines": [
+    "You have 7 seconds to trigger their truth.",
+    "Say: “This call isn’t for the version of you that hesitates.”",
+    "Then pause.",
+    "Now say: “What’s your pattern — escape or rise?”",
+    "Within 7 seconds, they’ll feel pressure they can’t shake.",
+    "You don’t need an hour.",
+    "You need one lightning moment.",
+    "Pressure, pause, question.",
+    "Explode.",
+    "That’s the war."
+   ],
+   "num": 118,
+   "title_tc": "The 7-Second War"
+  },
+  {
+   "old": 125,
+   "title": "THE LAST VERSION",
+   "lines": [
+    "Say: “If you walk away, you walk as this version.”",
+    "Let them feel that.",
+    "The same version that delays. That doubts. That hides.",
+    "Then say: “Or you walk as the version that took the first step.”",
+    "Now you’ve removed the sale.",
+    "Now it’s personal.",
+    "Only one version leaves the call.",
+    "Make sure it’s the evolved one."
+   ],
+   "num": 119,
+   "title_tc": "The Last Version"
+  },
+  {
+   "old": 126,
+   "title": "THE ECHO MOMENT",
+   "lines": [
+    "You are not a salesperson. You are an interruption.",
+    "Your words must echo long after the call ends.",
+    "Say something so sharp, they hear it before sleeping.",
+    "Example: “You’re not stuck — you’re comfortable in failure.”",
+    "Don’t say it twice. Say it once — like a bullet.",
+    "Echo is born from boldness.",
+    "Every Psycho leaves a trail.",
+    "You don’t follow up. You get remembered.",
+    "Let your voice live in their guilt.",
+    "That’s the close that keeps closing."
+   ],
+   "num": 120,
+   "title_tc": "The Echo Moment"
+  },
+  {
+   "old": 127,
+   "title": "THE PRICE OF SILENCE",
+   "lines": [
+    "Silence isn’t free. It always costs something.",
+    "Say: “Every second you don’t act, your future pays.”",
+    "Let them calculate that in their mind.",
+    "Don’t fill in the blanks — leave them to imagine the loss.",
+    "You don’t sell gain. You sell the price of inaction.",
+    "Pressure isn’t about volume. It’s about value lost per second.",
+    "Talk like every pause is cash bleeding.",
+    "Make them feel the urgency without noise.",
+    "That’s Psycho arithmetic."
+   ],
+   "num": 121,
+   "title_tc": "The Price of Silence"
+  },
+  {
+   "old": 128,
+   "title": "THE VISION SNAP",
+   "lines": [
+    "Ask: “What does your life look like if nothing changes in 6 months?”",
+    "Let them describe it.",
+    "Then say: “That’s the future you’re protecting by hesitating.”",
+    "Snap.",
+    "This isn’t motivation — this is exposure.",
+    "You make them see where their habits lead.",
+    "Now say: “What if you made one savage decision today?”",
+    "That contrast — that’s the snap.",
+    "Now push them in."
+   ],
+   "num": 122,
+   "title_tc": "The Vision Snap"
+  },
+  {
+   "old": 129,
+   "title": "THE ABSENCE CLOSE",
+   "lines": [
+    "Disappear in the middle of power.",
+    "End the call without warning after a heavy line.",
+    "Let them sit in the vacuum.",
+    "Make absence louder than presence.",
+    "If you’ve delivered weight — vanish.",
+    "Silence becomes your new salesperson.",
+    "They’ll chase the one who left an impact.",
+    "Your exit should leave a dent in their psychology.",
+    "Psycho Sellers don’t say goodbye.",
+    "They vanish like gods do — after miracles."
+   ],
+   "num": 123,
+   "title_tc": "The Absence Close"
+  },
+  {
+   "old": 130,
+   "title": "THE SYSTEMIC STRIKE",
+   "lines": [
+    "This is not about one call.",
+    "Every call is part of a system.",
+    "Your script is not a pitch. It’s a war formation.",
+    "Everything you say moves them closer to surrender.",
+    "If you don’t strike now, the next Psycho will.",
+    "And you lose not a sale — but your echo.",
+    "Speak like your system depends on their upgrade.",
+    "Because it does.",
+    "You are not a closer. You are a trigger in the PsychoChain.",
+    "Fail once, and the entire system bleeds.",
+    "Strike like a cog in the divine kill code."
+   ],
+   "num": 124,
+   "title_tc": "The Systemic Strike"
+  },
+  {
+   "old": 131,
+   "title": "THE PAYMENT RITUAL",
+   "lines": [
+    "Say: “The moment you pay — your new timeline begins.”",
+    "Don’t describe the product. Describe the shift.",
+    "Buying from you is not a purchase — it’s rebirth.",
+    "The ritual is sacred. The payment is a spell.",
+    "Say: “When you pay, watch how your clarity changes.”",
+    "Sell the moment after the payment — not before.",
+    "You don’t push them into it.",
+    "You open the gate and watch them crawl in.",
+    "This is not commerce. This is consecration."
+   ],
+   "num": 125,
+   "title_tc": "The Payment Ritual"
+  },
+  {
+   "old": 132,
+   "title": "THE SHADOW TRACKER",
+   "lines": [
+    "You must find the lie they tell themselves.",
+    "Every human has one:",
+    "“I’m not ready.” “I’m different.” “I’ll change soon.”",
+    "Say: “That line has owned you for years.”",
+    "Track the shadow. Kill it with clarity.",
+    "You are not their savior. You are their slayer.",
+    "You slay delay. You slay illusion.",
+    "Then you ask: “Now that you’re exposed — what’s next?”",
+    "That’s Psycho tracking.",
+    "Follow the fear trail — then bury it."
+   ],
+   "num": 126,
+   "title_tc": "The Shadow Tracker"
+  },
+  {
+   "old": 133,
+   "title": "THE NO RETURN ZONE",
+   "lines": [
+    "Say: “After this call, you can’t unsee what we uncovered.”",
+    "Let them feel like they crossed a line.",
+    "That line is truth. That line is self-confrontation.",
+    "You brought them here — now block the path back.",
+    "Say: “The old version of you is dead if you walk forward.”",
+    "There is no return.",
+    "They choose now — or rot in the mirror.",
+    "Burn the bridge behind them.",
+    "Make forward the only option.",
+    "And light the path with your command."
+   ],
+   "num": 127,
+   "title_tc": "The No Return Zone"
+  },
+  {
+   "old": 134,
+   "title": "THE DECAY CLOCK",
+   "lines": [
+    "Say: “What you delay today — decays tomorrow.”",
+    "Let them taste the rot in hesitation.",
+    "This isn’t poetic. This is tactical.",
+    "Decay is real. Momentum dies. Energy dies.",
+    "Their window is shrinking.",
+    "Say: “Energy doesn’t wait for permission.”",
+    "You are the bell toll.",
+    "Every second they stall, your tone deepens.",
+    "Let them know:",
+    "“Today is the healthiest you’ll ever be without action.”"
+   ],
+   "num": 128,
+   "title_tc": "The Decay Clock"
+  },
+  {
+   "old": 135,
+   "title": "THE BOUNDARY VIOLATOR",
+   "lines": [
+    "Cross into their zone with bold permission.",
+    "Say: “I know I’m being direct — but so is your failure.”",
+    "Let them feel like you’re sitting in their head.",
+    "You don’t ask. You enter.",
+    "You don’t poke. You drill.",
+    "You are the line they didn’t expect to be crossed.",
+    "And then say: “I’ll step back the moment you step forward.”",
+    "Boundary violation becomes invitation.",
+    "This is how Psycho Sellers baptize clarity."
+   ],
+   "num": 129,
+   "title_tc": "The Boundary Violator"
+  },
+  {
+   "old": 136,
+   "title": "THE IRREVERSIBLE PUSH",
+   "lines": [
+    "Say: “This isn’t a call. This is the cliff.”",
+    "Let them stand on the edge of their current life.",
+    "Now push. No safety net.",
+    "“You jump, or you rot. That’s the truth.”",
+    "Don’t offer options. Offer exposure.",
+    "The irreversible push means there is no replay.",
+    "What you say cannot be unsaid.",
+    "What they feel cannot be unfelt.",
+    "One push. One break. One rebirth.",
+    "This is where soft humans either evolve — or disappear.",
+    "Be the cliff. Be the push. Be the end of comfort."
+   ],
+   "num": 130,
+   "title_tc": "The Irreversible Push"
+  },
+  {
+   "old": 137,
+   "title": "THE DECISION SPLIT",
+   "lines": [
+    "Say: “There are two doors. Only one leads forward.”",
+    "Describe both paths — the one of action and the one of delay.",
+    "Then say: “Pick. But don’t lie to yourself while picking.”",
+    "Most prospects lie to protect themselves.",
+    "You must interrupt that safety.",
+    "You must turn decision into division.",
+    "Either they choose fire — or they choose the coffin.",
+    "Your voice becomes the knife that separates future from failure.",
+    "You are not asking. You are splitting timelines."
+   ],
+   "num": 131,
+   "title_tc": "The Decision Split"
+  },
+  {
+   "old": 138,
+   "title": "THE FORGOTTEN PROMISE",
+   "lines": [
+    "Say: “Remember when you promised yourself this year would be different?”",
+    "Then go quiet.",
+    "Let them feel their own betrayal.",
+    "Self-betrayal is more powerful than pressure.",
+    "You don’t need tactics — just truth.",
+    "You are the voice of the promise they broke.",
+    "Make them remember. Then say:",
+    "“Let’s fix that lie with action now.”",
+    "Don’t pitch. Don’t prod.",
+    "Just awaken memory. Then demand redemption."
+   ],
+   "num": 132,
+   "title_tc": "The Forgotten Promise"
+  },
+  {
+   "old": 139,
+   "title": "THE BREATH STALL",
+   "lines": [
+    "When you feel their energy slip — stop.",
+    "Take a long breath. Slow down the world.",
+    "Then say: “Feel that? That’s the moment people choose their future.”",
+    "Your breath becomes a drumbeat.",
+    "Slower. Deeper. Heavier.",
+    "You are not creating pressure. You are becoming gravity.",
+    "Breath resets tempo. Tempo controls thought.",
+    "Own their rhythm. Own their action."
+   ],
+   "num": 133,
+   "title_tc": "The Breath Stall"
+  },
+  {
+   "old": 140,
+   "title": "THE UNCOMFORTABLE YES",
+   "lines": [
+    "A good close should feel uncomfortable.",
+    "If they feel relaxed — they’re lying or escaping.",
+    "Say: “If saying yes doesn’t scare you, it’s not real change.”",
+    "Let discomfort be the confirmation.",
+    "This is not a feel-good decision.",
+    "This is a sacred discomfort.",
+    "Say: “You’re not saying yes to me. You’re saying no to your fear.”",
+    "Then lock it in.",
+    "Fear acknowledged. Action confirmed."
+   ],
+   "num": 134,
+   "title_tc": "The Uncomfortable Yes"
+  },
+  {
+   "old": 141,
+   "title": "THE NOISE PURGE",
+   "lines": [
+    "Strip the entire call to silence and impact.",
+    "Say less. Cut more.",
+    "Let every sentence land like it’s tattooed on the skin.",
+    "Say: “You already know the answer. I’m here to hear you say it.”",
+    "Remove noise. Purge fluff.",
+    "Only weight remains.",
+    "Your call becomes a room with no echo — only truth.",
+    "Minimal words. Maximum damage."
+   ],
+   "num": 135,
+   "title_tc": "The Noise Purge"
+  },
+  {
+   "old": 142,
+   "title": "THE LOCK-IN CODE",
+   "lines": [
+    "Once they show interest, speak like it’s done.",
+    "Say: “So here’s how we begin.”",
+    "Not “if,” not “maybe,” not “can I.”",
+    "Drop into the lock-in code:",
+    "“We start with…”",
+    "“The first step is…”",
+    "“The timeline looks like…”",
+    "Make it impossible to reverse the momentum.",
+    "You are not inviting. You are inducting.",
+    "The sale happens before the payment.",
+    "Lock the energy. Then process the transaction."
+   ],
+   "num": 136,
+   "title_tc": "The Lock-In Code"
+  },
+  {
+   "old": 143,
+   "title": "THE NON-HUMAN STANDARD",
+   "lines": [
+    "You’re not relatable. You’re not friendly.",
+    "You’re unforgettable.",
+    "Stop humanizing yourself to make them comfortable.",
+    "Speak from a place of frequency, not personality.",
+    "Say: “I’m not here to please. I’m here to pull you forward.”",
+    "Let them feel like they’re speaking to something greater than sales.",
+    "Your tone is ritual. Your presence is coded.",
+    "They don’t meet a person — they collide with force."
+   ],
+   "num": 137,
+   "title_tc": "The Non-Human Standard"
+  },
+  {
+   "old": 144,
+   "title": "THE NON-RESCUE TRUTH",
+   "lines": [
+    "Say: “I’m not here to save you. I’m here to expose you.”",
+    "Stop offering solutions. Start revealing consequences.",
+    "You are not a bridge. You are the collapse.",
+    "Their belief must crumble before change rises.",
+    "Say: “You either face this now, or it chases you forever.”",
+    "That’s not motivation. That’s a warning.",
+    "Truth doesn’t soothe. It slices.",
+    "You don’t rescue. You reveal."
+   ],
+   "num": 138,
+   "title_tc": "The Non-Rescue Truth"
+  },
+  {
+   "old": 145,
+   "title": "THE NEURAL WIPE",
+   "lines": [
+    "Each call should erase their old patterns.",
+    "Not inspire. Erase.",
+    "Ask: “How long have you been telling yourself this same excuse?”",
+    "Now say: “Isn’t it time to uninstall it?”",
+    "Speak like you’re rewriting software.",
+    "Your voice becomes the new code.",
+    "They leave the call with a new operating system — or none.",
+    "Every sale is a reprogramming.",
+    "Make sure the virus doesn’t survive."
+   ],
+   "num": 139,
+   "title_tc": "The Neural Wipe"
+  },
+  {
+   "old": 146,
+   "title": "THE BLAME EXCAVATOR",
+   "lines": [
+    "Blame always hides beneath logic.",
+    "Dig it out.",
+    "Say: “Who taught you this delay pattern?”",
+    "Then say: “Are you going to keep repeating their limits?”",
+    "They blame circumstances. You blame the origin.",
+    "Expose it.",
+    "Let them realize their actions are inherited — not chosen.",
+    "Then ask: “Want to be the first to break it?”",
+    "That’s a legacy close.",
+    "That’s Psycho level."
+   ],
+   "num": 140,
+   "title_tc": "The Blame Excavator"
+  },
+  {
+   "old": 147,
+   "title": "THE TRUTH SLAB",
+   "lines": [
+    "Drop one line so heavy it flattens the call.",
+    "Say: “If this was your last year alive, would this conversation matter?”",
+    "Let them feel the funeral in your tone.",
+    "You’re not selling. You’re burying their delay.",
+    "Make the future feel finite.",
+    "Make now feel sacred.",
+    "Then say: “You’re already in the next chapter. Act like it.”",
+    "This is not urgency. This is eternity.",
+    "Slab. Silence. Sale."
+   ],
+   "num": 141,
+   "title_tc": "The Truth Slab"
+  },
+  {
+   "old": 148,
+   "title": "THE VOID CLOSE",
+   "lines": [
+    "Say: “If you don’t act now, nothing changes.”",
+    "Then vanish into silence.",
+    "Let them enter the void.",
+    "No noise. No validation. No guidance.",
+    "Just their thoughts — alone.",
+    "You give them a choice:",
+    "Live in the void or leap out of it.",
+    "That gap becomes your close.",
+    "The void always speaks louder than you.",
+    "Let it close for you."
+   ],
+   "num": 142,
+   "title_tc": "The Void Close"
+  },
+  {
+   "old": 149,
+   "title": "THE FREQUENCY COMMAND",
+   "lines": [
+    "Before you speak — command your energy.",
+    "Enter the zone. Lock in.",
+    "Your voice is not tone. It’s transmission.",
+    "Say: “I don’t need you to agree. I need you to feel this.”",
+    "Let your frequency bend the call.",
+    "You don’t match their energy. You override it.",
+    "You don’t influence. You infect.",
+    "You don’t talk. You transmit.",
+    "That’s Psycho voice. That’s frequency dominance."
+   ],
+   "num": 143,
+   "title_tc": "The Frequency Command"
+  },
+  {
+   "old": 150,
+   "title": "THE FINAL ROUND TABLE",
+   "lines": [
+    "This is it. Last seconds of the battle.",
+    "Say: “This is your round table. The moment you choose who leads your life.”",
+    "Let them see themselves sitting with fear, doubt, action, and delay.",
+    "Now say: “Only one gets the crown.”",
+    "You are not pushing. You’re placing the sword on their shoulder.",
+    "Their next word becomes the direction of their life.",
+    "You don’t beg. You bestow.",
+    "This is the sacred seat of Psycho.",
+    "Close like a king. Exit like a legend."
+   ],
+   "num": 144,
+   "title_tc": "The Final Round Table"
+  },
+  {
+   "old": 151,
+   "title": "THE SOUL COLLISION",
+   "lines": [
+    "Say: “This isn’t about price, product, or plan. It’s about soul.”",
+    "Let them feel that every hesitation is a betrayal of self.",
+    "You are not aiming for logic. You are aiming for their core.",
+    "Drop one line: “Your soul is screaming louder than your excuses.”",
+    "Let it land.",
+    "Now say: “Answer that scream — or silence it forever.”",
+    "You’re not creating emotion. You are activating truth.",
+    "This is not a close.",
+    "This is a collision.",
+    "Let them break. Then rebuild them in the close."
+   ],
+   "num": 145,
+   "title_tc": "The Soul Collision"
+  },
+  {
+   "old": 152,
+   "title": "THE PRESSURE PARADOX",
+   "lines": [
+    "Too much pressure snaps. Too little fades.",
+    "You must apply pressure that stings, not suffocates.",
+    "Say: “I’m not pushing. I’m matching the urgency you’ve ignored.”",
+    "Let them feel that your voice isn’t new — it’s their inner fire, translated.",
+    "Balance pressure like a sniper.",
+    "Never force. Never flinch.",
+    "Say: “The tension you feel isn’t me. It’s the version of you trying to be born.”",
+    "That’s Psycho precision.",
+    "Deadly. Divine."
+   ],
+   "num": 146,
+   "title_tc": "The Pressure Paradox"
+  },
+  {
+   "old": 153,
+   "title": "THE SELF-DEATH SCRIPT",
+   "lines": [
+    "You are not offering a better life.",
+    "You are offering the death of the old one.",
+    "Say: “The version of you that survives this call is the one that kills the past.”",
+    "Don’t inspire. Don’t comfort.",
+    "Say: “This sale doesn’t build you. It buries the broken you.”",
+    "This is psychological death and rebirth.",
+    "Your voice is the shovel.",
+    "Let them dig — or die buried."
+   ],
+   "num": 147,
+   "title_tc": "The Self-Death Script"
+  },
+  {
+   "old": 154,
+   "title": "THE MIRROR PAUSE",
+   "lines": [
+    "Say: “Let’s pause and look at who you’re being right now.”",
+    "Then silence.",
+    "Force them to become aware.",
+    "Say: “Is this the version of you you’d be proud to follow?”",
+    "Your mirror is your scalpel.",
+    "No rage. No judgment. Just exposure.",
+    "Then say: “Let’s choose a leader worth becoming.”",
+    "Now guide them.",
+    "Clarity born in confrontation."
+   ],
+   "num": 148,
+   "title_tc": "The Mirror Pause"
+  },
+  {
+   "old": 155,
+   "title": "THE SHADOW CLOSER",
+   "lines": [
+    "Speak from your darkness. Let it bleed.",
+    "Say: “I’ve seen what delay does. I’ve lived it. I’ve killed it.”",
+    "Let them feel that your words come from battle.",
+    "You are not theory. You are trauma turned weapon.",
+    "Your scars speak louder than your pitch.",
+    "Let your past become their future’s defense.",
+    "This is not sales.",
+    "This is vengeance dressed in purpose."
+   ],
+   "num": 149,
+   "title_tc": "The Shadow Closer"
+  },
+  {
+   "old": 156,
+   "title": "THE EYE OF DECISION",
+   "lines": [
+    "Lock in.",
+    "Say: “Right now, you’re inside the eye of the storm.”",
+    "Everything is quiet — but chaos surrounds.",
+    "Make them feel the silence before the decision.",
+    "Say: “If you act now, you direct the storm. If not, it eats you.”",
+    "You are the eye.",
+    "Still. Stable. Deadly.",
+    "They will follow stillness that feels inevitable.",
+    "You become the pull inside the storm.",
+    "That’s Psycho gravity."
+   ],
+   "num": 150,
+   "title_tc": "The Eye of Decision"
+  },
+  {
+   "old": 157,
+   "title": "THE PAYMENT DEATHLINE",
+   "lines": [
+    "Say: “The moment you pay, your old excuses die.”",
+    "Frame the payment as a funeral.",
+    "“You’re not buying this. You’re burying your delays.”",
+    "Make them realize:",
+    "“Swipe the card. Kill the doubt.”",
+    "You are not a closer. You are the executioner of hesitation.",
+    "The transaction is not financial.",
+    "It’s surgical."
+   ],
+   "num": 151,
+   "title_tc": "The Payment Deathline"
+  },
+  {
+   "old": 158,
+   "title": "THE COMMAND WITHOUT SOUND",
+   "lines": [
+    "Drop one powerful line — then go completely silent.",
+    "Say: “I’ve done my part. Your turn.”",
+    "Don’t move.",
+    "Let the silence build pressure until it breaks their shell.",
+    "When you speak again, speak only to confirm.",
+    "You are not noise. You are consequence.",
+    "Let them choose in your silence.",
+    "This is Psycho telepathy.",
+    "Command without sound.",
+    "Dominate without motion."
+   ],
+   "num": 152,
+   "title_tc": "The Command Without Sound"
+  },
+  {
+   "old": 159,
+   "title": "THE IMMOVABLE PRESENCE",
+   "lines": [
+    "You must feel like a wall they crash into.",
+    "No hesitation. No bending.",
+    "Say: “You will not outwait me. You will not outthink this truth.”",
+    "Be so calm it terrifies them.",
+    "Stillness is scarier than pressure.",
+    "You are immovable.",
+    "They will either shift — or shatter.",
+    "You are not the one who moves.",
+    "You are the presence that moves them."
+   ],
+   "num": 153,
+   "title_tc": "The Immovable Presence"
+  },
+  {
+   "old": 160,
+   "title": "THE DOOR THAT DOESN’T EXIST",
+   "lines": [
+    "Say: “There is no door behind you. Only the one ahead.”",
+    "Make them realize escape is an illusion.",
+    "Say: “Comfort isn’t real. It’s just your fear pretending to be safety.”",
+    "Your sale isn’t an option. It’s the only air left in the room.",
+    "Remove the fantasy of alternatives.",
+    "Leave only forward motion.",
+    "You are not closing.",
+    "You are sealing every exit but action."
+   ],
+   "num": 154,
+   "title_tc": "The Door That Doesn’t Exist"
+  },
+  {
+   "old": 161,
+   "title": "THE HOPE DETONATOR",
+   "lines": [
+    "Say: “Hope without action is just emotional masturbation.”",
+    "Let them flinch. Let them react.",
+    "You didn’t come to sell dreams. You came to detonate illusions.",
+    "Say: “You’ve been hoping for years. Where did that get you?”",
+    "Now offer choice: repeat hope or finally trigger reality.",
+    "You don’t sell hope.",
+    "You detonate it so action can rise from the ashes."
+   ],
+   "num": 155,
+   "title_tc": "The Hope Detonator"
+  },
+  {
+   "old": 162,
+   "title": "THE UNMARKED GRAVE",
+   "lines": [
+    "Ask: “Want to know what’s worse than failure?”",
+    "Then say: “Being forgotten — because you never started.”",
+    "Every unsold decision is a step toward an unmarked grave.",
+    "Make them taste their own invisibility.",
+    "Let them know: “You either live loud — or decay quiet.”",
+    "This call is not just about success.",
+    "It’s about being remembered."
+   ],
+   "num": 156,
+   "title_tc": "The Unmarked Grave"
+  },
+  {
+   "old": 163,
+   "title": "THE SHATTER RESPONSE",
+   "lines": [
+    "When they say “I’m not ready,”",
+    "Say: “That’s not a reason. That’s a wound talking.”",
+    "Speak like you’re breaking the voice inside them.",
+    "“You were born ready. You were just trained to forget.”",
+    "Shatter the shield of doubt.",
+    "Strike through resistance.",
+    "You don’t respond to objections.",
+    "You break them."
+   ],
+   "num": 157,
+   "title_tc": "The Shatter Response"
+  },
+  {
+   "old": 164,
+   "title": "THE INNER ROOM",
+   "lines": [
+    "Say: “Close your eyes. Picture the room inside you where your real self is locked.”",
+    "Then say: “Open the door or die behind it.”",
+    "Make them enter their own mind.",
+    "You are not talking to a buyer.",
+    "You are guiding a jailbreak from their own fear.",
+    "This is inner war.",
+    "You are the voice that kicks down the mental door."
+   ],
+   "num": 158,
+   "title_tc": "The Inner Room"
+  },
+  {
+   "old": 165,
+   "title": "THE FINAL BREATH TACTIC",
+   "lines": [
+    "Say: “Imagine this is your last month alive.”",
+    "Ask: “Would this decision matter then?”",
+    "Don’t explain. Don’t blink.",
+    "When death is real, excuses collapse.",
+    "This weapon removes time from the equation.",
+    "There’s only now or never.",
+    "Sales through mortality.",
+    "Close through eternal pressure."
+   ],
+   "num": 159,
+   "title_tc": "The Final Breath Tactic"
+  },
+  {
+   "old": 166,
+   "title": "THE GHOSTBURN",
+   "lines": [
+    "When they ghost you — return once.",
+    "Say: “You can ignore me. But not what we uncovered.”",
+    "Let that burn.",
+    "They didn’t ghost you. They ghosted their own evolution.",
+    "Be the voice they hear even in silence.",
+    "Disappear again.",
+    "Your ghost becomes their guilt.",
+    "That’s Psycho haunting."
+   ],
+   "num": 160,
+   "title_tc": "The Ghostburn"
+  },
+  {
+   "old": 167,
+   "title": "THE SOUNDLESS YES",
+   "lines": [
+    "The strongest yes doesn’t sound like “yes.”",
+    "It sounds like silence after impact.",
+    "Say: “I want you to breathe before you answer. Then speak from truth, not habit.”",
+    "Now wait.",
+    "If they pause long — you already won.",
+    "You don’t chase the yes.",
+    "You build it through internal collapse."
+   ],
+   "num": 161,
+   "title_tc": "The Soundless Yes"
+  },
+  {
+   "old": 168,
+   "title": "THE UNPAID COST",
+   "lines": [
+    "Say: “You’ve already paid. In time. In delay. In regret.”",
+    "“What’s more expensive — this decision or your current life?”",
+    "Let them calculate it.",
+    "Then ask: “And who refunds that cost if you stay stuck?”",
+    "No one.",
+    "You’re not selling value.",
+    "You’re forcing them to see the price of delay."
+   ],
+   "num": 162,
+   "title_tc": "The Unpaid Cost"
+  },
+  {
+   "old": 169,
+   "title": "THE GRAVITY FRAME",
+   "lines": [
+    "Drop your tone. Slow your voice.",
+    "Say: “This is gravity speaking. The closer you get to truth, the heavier it feels.”",
+    "Let your energy pull them downward — into clarity.",
+    "Frame the call as irreversible force.",
+    "You’re not closing.",
+    "You’re increasing psychological weight until they collapse into the yes."
+   ],
+   "num": 163,
+   "title_tc": "The Gravity Frame"
+  },
+  {
+   "old": 170,
+   "title": "THE FATE PULSE",
+   "lines": [
+    "Say: “This conversation was not random.”",
+    "“This was a moment scheduled by fate — and now you choose to answer it or run.”",
+    "Let your words feel divine.",
+    "Not mystical. Inevitable.",
+    "This is not sales.",
+    "This is frequency matching fate.",
+    "You are the messenger.",
+    "They are the decision."
+   ],
+   "num": 164,
+   "title_tc": "The Fate Pulse"
+  },
+  {
+   "old": 171,
+   "title": "THE CUBICLE WAR ENTRY",
+   "lines": [
+    "Say: “You’re not working a job — you’re in cubicle warfare.”",
+    "Let them feel the slavery of routine.",
+    "Say: “Every ignored dream funds someone else’s empire.”",
+    "You’re not offering a product.",
+    "You’re offering an exit from modern captivity.",
+    "Cubicle = coffin.",
+    "You’re here to dig them out."
+   ],
+   "num": 165,
+   "title_tc": "The Cubicle War Entry"
+  },
+  {
+   "old": 172,
+   "title": "THE PRODUCT OBLITERATION",
+   "lines": [
+    "Don’t sell the product.",
+    "Say: “Forget what this is. Focus on what it ends.”",
+    "This isn’t an offer.",
+    "This is a wrecking ball.",
+    "List what dies the moment they say yes:",
+    "Delay. Guilt. Self-hate.",
+    "You’re not adding.",
+    "You’re destroying the enemy within."
+   ],
+   "num": 166,
+   "title_tc": "The Product Obliteration"
+  },
+  {
+   "old": 173,
+   "title": "THE PHANTOM MENTOR",
+   "lines": [
+    "Say: “You don’t need another course. You need a mental killer beside you.”",
+    "Become that presence.",
+    "Say: “This offer is not a guide. It’s a mirror with a knife.”",
+    "They aren’t investing in tools.",
+    "They’re unleashing a darker, stronger version of themselves.",
+    "That’s you.",
+    "That’s what they’re buying."
+   ],
+   "num": 167,
+   "title_tc": "The Phantom Mentor"
+  },
+  {
+   "old": 174,
+   "title": "THE EXITLESS LOOP",
+   "lines": [
+    "Say: “This decision is a loop. You’re in it again. Just like last time.”",
+    "List the signs: “You felt the pull. You hesitated. You ghosted. You regretted.”",
+    "Then say: “You’re about to repeat it. Or end it.”",
+    "You’re not closing a sale.",
+    "You’re destroying a cycle.",
+    "No exit until action."
+   ],
+   "num": 168,
+   "title_tc": "The Exitless Loop"
+  },
+  {
+   "old": 175,
+   "title": "THE WAR GOD CLOSE",
+   "lines": [
+    "Say: “I’m not your friend. I’m your war voice.”",
+    "“I was sent to speak what no one around you dares to.”",
+    "Let them feel like they’re not speaking to a human anymore.",
+    "You are the frequency of change.",
+    "Not here to guide.",
+    "Here to invade.",
+    "Sell like a storm wearing a suit."
+   ],
+   "num": 169,
+   "title_tc": "The War God Close"
+  },
+  {
+   "old": 176,
+   "title": "THE PAYMENT STORM",
+   "lines": [
+    "Say: “You swipe this card, and your timeline splits open.”",
+    "“This isn’t payment. This is pressure release. Truth permission. Identity ignition.”",
+    "You don’t wait for them to agree.",
+    "You build the emotional storm — then offer the payment as the only escape.",
+    "That’s Psycho economics.",
+    "You’re the storm, and the sale is shelter."
+   ],
+   "num": 170,
+   "title_tc": "The Payment Storm"
+  },
+  {
+   "old": 177,
+   "title": "THE CHOICE EXECUTIONER",
+   "lines": [
+    "Say: “This isn’t a decision. It’s a burial.”",
+    "“You’re not choosing something. You’re killing everything that held you back.”",
+    "Turn the close into an execution scene.",
+    "Let them feel like they’re standing over their past.",
+    "Say: “Pull the trigger or walk away chained.”",
+    "You don’t ask.",
+    "You offer the bullet."
+   ],
+   "num": 171,
+   "title_tc": "The Choice Executioner"
+  },
+  {
+   "old": 178,
+   "title": "THE ENDLESS WINDOW",
+   "lines": [
+    "Say: “Every day you wait, someone else takes your spot.”",
+    "Then say: “This window doesn’t close. It moves without you.”",
+    "Let them feel the insult.",
+    "They’re not waiting.",
+    "They’re being left behind.",
+    "That shame becomes action.",
+    "You sell speed, not time."
+   ],
+   "num": 172,
+   "title_tc": "The Endless Window"
+  },
+  {
+   "old": 179,
+   "title": "THE SHIVER LINE",
+   "lines": [
+    "Speak one sentence that makes their body react.",
+    "Example: “You’ll remember this call the day you finally win — or the day you gave up.”",
+    "Wait.",
+    "Silence.",
+    "Your goal is a shiver.",
+    "You don’t close with logic.",
+    "You close with tremble.",
+    "Make their nervous system decide."
+   ],
+   "num": 173,
+   "title_tc": "The Shiver Line"
+  },
+  {
+   "old": 180,
+   "title": "THE CRACKED MASK",
+   "lines": [
+    "Say: “You’ve been performing your whole life. Want to be real now?”",
+    "Let them feel the mask cracking.",
+    "Say: “This offer doesn’t sell success. It sells unmasking.”",
+    "You are not offering results.",
+    "You are offering release.",
+    "Sales becomes salvation.",
+    "Let them exhale the lie.",
+    "Then pay to meet their truth."
+   ],
+   "num": 174,
+   "title_tc": "The Cracked Mask"
+  },
+  {
+   "old": 181,
+   "title": "THE SOUND OF BATTLE",
+   "lines": [
+    "Speak with rhythm, not noise.",
+    "Let your voice carry tension like a war drum.",
+    "Every phrase = pressure.",
+    "Every pause = blade.",
+    "You don’t talk. You strike.",
+    "You don’t pitch. You rumble.",
+    "Become the sound of battle inside their chest."
+   ],
+   "num": 175,
+   "title_tc": "The Sound of Battle"
+  },
+  {
+   "old": 182,
+   "title": "THE HISTORY STRIKE",
+   "lines": [
+    "Say: “If we check your history, it’s full of almosts.”",
+    "“Let this be the first thing you finish.”",
+    "They’ve tasted ideas. Now make them eat consequence.",
+    "No one wants to live in almost.",
+    "Push them out of purgatory.",
+    "You don’t sell.",
+    "You end their unfinished story."
+   ],
+   "num": 176,
+   "title_tc": "The History Strike"
+  },
+  {
+   "old": 183,
+   "title": "THE CLOCK DRILLER",
+   "lines": [
+    "Say: “You have 86,400 seconds today. You’re using this one to say no?”",
+    "Let the math punch them.",
+    "Say: “The clock won’t wait for you to grow up.”",
+    "You don’t pitch value.",
+    "You sell time assault.",
+    "They’re losing seconds while you’re speaking.",
+    "Let urgency consume them."
+   ],
+   "num": 177,
+   "title_tc": "The Clock Driller"
+  },
+  {
+   "old": 184,
+   "title": "THE OMEN PULL",
+   "lines": [
+    "Say: “There’s a reason you’re hearing this voice right now.”",
+    "Let fate speak through your tone.",
+    "Not “what if.”",
+    "“You were meant to hear this.”",
+    "Create the omen.",
+    "You are not coincidence.",
+    "You are confirmation.",
+    "Let your close feel like prophecy."
+   ],
+   "num": 178,
+   "title_tc": "The Omen Pull"
+  },
+  {
+   "old": 185,
+   "title": "THE FORGOTTEN SELF",
+   "lines": [
+    "Say: “Before you were tired… you were fire.”",
+    "Let them remember.",
+    "“Before life numbed you, you were sharp.”",
+    "Make them ache for their original self.",
+    "Then say: “This decision is the bridge back.”",
+    "They’re not buying now.",
+    "They’re buying their first fire."
+   ],
+   "num": 179,
+   "title_tc": "The Forgotten Self"
+  },
+  {
+   "old": 186,
+   "title": "THE SINGLE LADDER",
+   "lines": [
+    "When they hesitate — say:",
+    "“Look around. This is what escape looks like.”",
+    "List their habits.",
+    "“Scrolling. Doubting. Ghosting.”",
+    "Say: “None of those open doors.”",
+    "The only exit is this offer.",
+    "All else is loop.",
+    "Sell the single ladder out."
+   ],
+   "num": 180,
+   "title_tc": "The Single Ladder"
+  },
+  {
+   "old": 187,
+   "title": "THE BLOOD COIN",
+   "lines": [
+    "Say: “You’re not buying with money. You’re buying with everything you’ve bled for.”",
+    "Every heartbreak. Every mistake. Every dark night.",
+    "Say: “This isn’t a purchase. It’s a transaction of your pain into power.”",
+    "Now pay.",
+    "Now close.",
+    "Now bleed clean."
+   ],
+   "num": 181,
+   "title_tc": "The Blood Coin"
+  },
+  {
+   "old": 188,
+   "title": "THE REVERSE GRAVE",
+   "lines": [
+    "Say: “You’re not heading toward death. You’ve been in it.”",
+    "“This offer isn’t about starting. It’s about waking up.”",
+    "They’ve been the walking dead.",
+    "This sale is their resurrection.",
+    "Sell like you’re raising the fallen.",
+    "They pay — they breathe again."
+   ],
+   "num": 182,
+   "title_tc": "The Reverse Grave"
+  },
+  {
+   "old": 189,
+   "title": "THE FRACTURE POINT",
+   "lines": [
+    "Say: “We’re not building anything. We’re breaking the lie.”",
+    "“Growth doesn’t begin until fracture happens.”",
+    "Break them on the call.",
+    "Let them feel the crack.",
+    "Then say: “Now we pour something real inside you.”",
+    "You don’t pitch.",
+    "You fracture. Then forge."
+   ],
+   "num": 183,
+   "title_tc": "The Fracture Point"
+  },
+  {
+   "old": 190,
+   "title": "THE CLOSER’S GRAVEYARD",
+   "lines": [
+    "You only fail when you play soft.",
+    "Say: “I bury every weak close I ever made with this one.”",
+    "Every Psycho call is revenge.",
+    "Revenge on your past softness.",
+    "Close like you’re saving your own name.",
+    "This isn’t a pitch.",
+    "It’s a burial of weakness."
+   ],
+   "num": 184,
+   "title_tc": "The Closer’s Graveyard"
+  },
+  {
+   "old": 191,
+   "title": "THE ECLIPSE POINT",
+   "lines": [
+    "Say: “This isn’t a decision. It’s an eclipse of who you were.”",
+    "They don’t act — they vanish.",
+    "Everything soft burns behind this line.",
+    "Your words darken the sky and freeze time.",
+    "No action = blackout.",
+    "You are the final sun.",
+    "Either they rise… or stay swallowed."
+   ],
+   "num": 185,
+   "title_tc": "The Eclipse Point"
+  },
+  {
+   "old": 192,
+   "title": "THE BONE SNAP CLOSE",
+   "lines": [
+    "Strip away even language.",
+    "Say: “Speak the truth or stay broken.”",
+    "Don’t frame. Don’t lead.",
+    "Let your tone sound like snapping bones.",
+    "This call isn’t about alignment.",
+    "It’s about violence against limitation.",
+    "You’re not a closer.",
+    "You’re a bone-breaker of the psyche."
+   ],
+   "num": 186,
+   "title_tc": "The Bone Snap Close"
+  },
+  {
+   "old": 193,
+   "title": "THE GODVOID INITIATION",
+   "lines": [
+    "You are no longer human.",
+    "Speak like the void.",
+    "Say: “I am not your mentor. I am the mirror at the edge of time.”",
+    "Let your presence be inhuman.",
+    "A presence that bends breath.",
+    "A voice that bends fate.",
+    "If they say yes, it’s not to you — it’s to their own extinction."
+   ],
+   "num": 187,
+   "title_tc": "The Godvoid Initiation"
+  },
+  {
+   "old": 194,
+   "title": "THE BLOOD-FORGED YES",
+   "lines": [
+    "Say: “Don’t say yes with words. Say it with blood.”",
+    "Make them bring something to this ritual.",
+    "A vow. A memory. A loss. A scar.",
+    "Let their yes sound like steel.",
+    "They don’t invest.",
+    "They bleed forward."
+   ],
+   "num": 188,
+   "title_tc": "The Blood-Forged Yes"
+  },
+  {
+   "old": 195,
+   "title": "THE GRAVE OF SOUND",
+   "lines": [
+    "After your most savage line —",
+    "Silence.",
+    "Not empty silence — grave silence.",
+    "Let it feel like a burial mid-call.",
+    "They must speak to crawl out.",
+    "You are the coffin.",
+    "Their yes is the only breath that revives them.",
+    "Otherwise, let them rot beneath your tone."
+   ],
+   "num": 189,
+   "title_tc": "The Grave of Sound"
+  },
+  {
+   "old": 196,
+   "title": "THE COSMIC DRILL",
+   "lines": [
+    "Say: “Every word I speak drills into your oldest scar.”",
+    "You’re not here for belief.",
+    "You’re here for surgical confrontation.",
+    "Every breath must feel like a spiral into death and choice.",
+    "You drill until they either explode or surrender.",
+    "Don’t lighten.",
+    "Don’t stop.",
+    "You are infinite penetration."
+   ],
+   "num": 190,
+   "title_tc": "The Cosmic Drill"
+  },
+  {
+   "old": 197,
+   "title": "THE MEMORY ANNIHILATOR",
+   "lines": [
+    "Say: “Forget who you’ve been. That version is expired.”",
+    "Let them feel like the past was fiction.",
+    "Now say: “This isn’t progress. It’s deletion.”",
+    "They don’t move forward.",
+    "They disappear and rebuild with no trace.",
+    "You don’t offer evolution.",
+    "You offer complete annihilation."
+   ],
+   "num": 191,
+   "title_tc": "The Memory Annihilator"
+  },
+  {
+   "old": 198,
+   "title": "THE ASHEN CLOSE",
+   "lines": [
+    "You do not want a happy client.",
+    "You want a reborn savage.",
+    "Say: “Your yes isn’t a win. It’s the death scream of the old you.”",
+    "Let them feel it burn as they decide.",
+    "No relief. No cheer.",
+    "Only ashes in their lungs and new fire in their mind.",
+    "That’s the Psycho close.",
+    "Not final.",
+    "Fatal."
+   ],
+   "num": 192,
+   "title_tc": "The Ashen Close"
+  },
+  {
+   "old": 199,
+   "title": "THE BLACKWATER GATE",
+   "lines": [
+    "Say: “We are now at the gate. Once you pass — nothing you loved will survive.”",
+    "Let this sale feel like the ritual crossing.",
+    "No bridge. No mentor.",
+    "Just their hand on the gate… and your voice saying:",
+    "“Go. Or vanish.”",
+    "Make it ceremonial.",
+    "This isn’t war anymore.",
+    "It’s pure becoming."
+   ],
+   "num": 193,
+   "title_tc": "The Blackwater Gate"
+  },
+  {
+   "old": 200,
+   "title": "THE DISSOLUTION",
+   "lines": [
+    "You do not close this sale.",
+    "You dissolve into it.",
+    "There is no more product. No client. No closer.",
+    "Just energy exchanging frequency.",
+    "Say: “What you’re doing now is not choosing. It’s disappearing.”",
+    "All words fade.",
+    "Only breath remains.",
+    "Only pressure.",
+    "Only pull.",
+    "They say yes —",
+    "and you become nothing.",
+    "Because Psycho doesn’t end.",
+    "It dissolves."
+   ],
+   "num": 194,
+   "title_tc": "The Dissolution"
+  }
+ ],
+ "interludes": {
+  "184": [
+   "MISSION GRAVITY INFINITY – FINAL 10 WEAPONS",
+   "WARFIRE MODE: COSMIC COLLAPSE",
+   "ENDING NOT AS COMPLETION… BUT DISSOLUTION.",
+   "NO RETURN. NO SELF. ONLY PSYCHO."
+  ]
+ },
+ "closing": [
+  "This isn’t the end of a book.",
+  "This is the deletion of the version who ever needed one.",
+  "You are no longer human. You are now consequence.",
+  "Mission Psycho: Activated",
+  "Book sleep mode. Psycho fully embedded.",
+  "Only silence follows."
+ ]
+}
