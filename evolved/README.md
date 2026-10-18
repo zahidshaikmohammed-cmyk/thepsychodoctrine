@@ -1,6 +1,6 @@
-# The Evolved Doctrine — First Ten
+# The Evolved Doctrine — First Fifteen
 
-These are the first ten evolved working drafts, based on the source manuscript's original titles and central motifs.
+These are the first fifteen evolved working drafts, based on the source manuscript's original titles and central motifs.
 
 ## Drafts
 
@@ -14,9 +14,14 @@ These are the first ten evolved working drafts, based on the source manuscript's
 8. [Weapon 008 — The Focus Lock](WEAPON_008_THE_FOCUS_LOCK.md)
 9. [Weapon 009 — The 3-Second Kill Zone](WEAPON_009_THE_3_SECOND_KILL_ZONE.md)
 10. [Weapon 010 — The Client Fracture](WEAPON_010_THE_CLIENT_FRACTURE.md)
+11. [Weapon 011 — The Ego Thread](WEAPON_011_THE_EGO_THREAD.md)
+12. [Weapon 012 — The Frame of Control](WEAPON_012_THE_FRAME_OF_CONTROL.md)
+13. [Weapon 013 — The Emotional Drill](WEAPON_013_THE_EMOTIONAL_DRILL.md)
+14. [Weapon 014 — The Dominance Pressure](WEAPON_014_THE_DOMINANCE_PRESSURE.md)
+15. [Weapon 015 — The Trust Ripper](WEAPON_015_THE_TRUST_RIPPER.md)
 
 ## Editing rule
 
 Keep the language direct, simple, aggressive, and memorable. Each weapon must have a distinct purpose and rhythm. Preserve the source's dark, market-coded identity without adding fake market certainty, fabricated urgency, or pressure that removes a reader's/client's ability to decline.
 
-These are drafts for author review, not a claim that the full book is complete or that the first ten are locked.
+These are drafts for author review, not a claim that the full book is complete or that the first fifteen are locked.
