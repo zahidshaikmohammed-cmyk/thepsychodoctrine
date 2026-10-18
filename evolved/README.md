@@ -1,6 +1,6 @@
-# The Evolved Doctrine — First Fifteen
+# The Evolved Doctrine — First Twenty
 
-These are the first fifteen evolved working drafts, based on the source manuscript's original titles and central motifs.
+These are the first twenty evolved working drafts, based on the source manuscript's original titles and central motifs.
 
 ## Drafts
 
@@ -19,9 +19,14 @@ These are the first fifteen evolved working drafts, based on the source manuscri
 13. [Weapon 013 — The Emotional Drill](WEAPON_013_THE_EMOTIONAL_DRILL.md)
 14. [Weapon 014 — The Dominance Pressure](WEAPON_014_THE_DOMINANCE_PRESSURE.md)
 15. [Weapon 015 — The Trust Ripper](WEAPON_015_THE_TRUST_RIPPER.md)
+16. [Weapon 016 — The Noise Shield](WEAPON_016_THE_NOISE_SHIELD.md)
+17. [Weapon 017 — The Silence Slab](WEAPON_017_THE_SILENCE_SLAB.md)
+18. [Weapon 018 — The Energy Flip](WEAPON_018_THE_ENERGY_FLIP.md)
+19. [Weapon 019 — The Scriptless Slap](WEAPON_019_THE_SCRIPTLESS_SLAP.md)
+20. [Weapon 020 — The Authority Injection](WEAPON_020_THE_AUTHORITY_INJECTION.md)
 
 ## Editing rule
 
 Keep the language direct, simple, aggressive, and memorable. Each weapon must have a distinct purpose and rhythm. Preserve the source's dark, market-coded identity without adding fake market certainty, fabricated urgency, or pressure that removes a reader's/client's ability to decline.
 
-These are drafts for author review, not a claim that the full book is complete or that the first fifteen are locked.
+These are drafts for author review, not a claim that the full book is complete or that the first twenty are locked.
