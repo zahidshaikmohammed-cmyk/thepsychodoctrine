@@ -60,3 +60,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 043 — The Power of Purpose](WEAPON_043_THE_POWER_OF_PURPOSE.md)
 - [Weapon 044 — The Pressure of Time](WEAPON_044_THE_PRESSURE_OF_TIME.md)
 - [Weapon 045 — The Mind of Decision](WEAPON_045_THE_MIND_OF_DECISION.md)
+
+- [Weapon 046 — The Final Verdict](WEAPON_046_THE_FINAL_VERDICT.md)
+- [Weapon 047 — The Inevitable Move](WEAPON_047_THE_INEVITABLE_MOVE.md)
+- [Weapon 048 — The Force of Nature](WEAPON_048_THE_FORCE_OF_NATURE.md)
+- [Weapon 049 — The Essence of Sale](WEAPON_049_THE_ESSENCE_OF_SALE.md)
+- [Weapon 050 — The End of Negotiation](WEAPON_050_THE_END_OF_NEGOTIATION.md)
