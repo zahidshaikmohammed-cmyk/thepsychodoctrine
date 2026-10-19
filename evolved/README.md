@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Thirty
+# The Evolved Doctrine — First Thirty-Five
 
 These are the first twenty evolved working drafts, based on the source manuscript's original titles and central motifs.
 
@@ -42,3 +42,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 028 — The Exit Seal](WEAPON_028_THE_EXIT_SEAL.md)
 - [Weapon 029 — The Presence Grip](WEAPON_029_THE_PRESENCE_GRIP.md)
 - [Weapon 030 — The Yes Spark](WEAPON_030_THE_YES_SPARK.md)
+
+- [Weapon 031 — The Pressure of Decision](WEAPON_031_THE_PRESSURE_OF_DECISION.md)
+- [Weapon 032 — The Silent Command](WEAPON_032_THE_SILENT_COMMAND.md)
+- [Weapon 033 — The Invisible Force](WEAPON_033_THE_INVISIBLE_FORCE.md)
+- [Weapon 034 — The Art of Dominance](WEAPON_034_THE_ART_OF_DOMINANCE.md)
+- [Weapon 035 — The Final Decision Impact](WEAPON_035_THE_FINAL_DECISION_IMPACT.md)
