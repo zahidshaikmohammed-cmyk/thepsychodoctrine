@@ -54,3 +54,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 038 — The Pressure of the Unseen](WEAPON_038_THE_PRESSURE_OF_THE_UNSEEN.md)
 - [Weapon 039 — The Final Close](WEAPON_039_THE_FINAL_CLOSE.md)
 - [Weapon 040 — The Art of Persistence](WEAPON_040_THE_ART_OF_PERSISTENCE.md)
+
+- [Weapon 041 — The Vibration of Truth](WEAPON_041_THE_VIBRATION_OF_TRUTH.md)
+- [Weapon 042 — The Timeline Shift](WEAPON_042_THE_TIMELINE_SHIFT.md)
+- [Weapon 043 — The Power of Purpose](WEAPON_043_THE_POWER_OF_PURPOSE.md)
+- [Weapon 044 — The Pressure of Time](WEAPON_044_THE_PRESSURE_OF_TIME.md)
+- [Weapon 045 — The Mind of Decision](WEAPON_045_THE_MIND_OF_DECISION.md)
