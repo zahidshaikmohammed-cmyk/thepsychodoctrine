@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Twenty-Five
+# The Evolved Doctrine — First Thirty
 
 These are the first twenty evolved working drafts, based on the source manuscript's original titles and central motifs.
 
@@ -36,3 +36,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 023 — The Priceless Void](WEAPON_023_THE_PRICELESS_VOID.md)
 - [Weapon 024 — The Pressure Zone](WEAPON_024_THE_PRESSURE_ZONE.md)
 - [Weapon 025 — The Frequency Thread](WEAPON_025_THE_FREQUENCY_THREAD.md)
+
+- [Weapon 026 — The Shame Torque](WEAPON_026_THE_SHAME_TORQUE.md)
+- [Weapon 027 — The 4-Word Collapse](WEAPON_027_THE_4_WORD_COLLAPSE.md)
+- [Weapon 028 — The Exit Seal](WEAPON_028_THE_EXIT_SEAL.md)
+- [Weapon 029 — The Presence Grip](WEAPON_029_THE_PRESENCE_GRIP.md)
+- [Weapon 030 — The Yes Spark](WEAPON_030_THE_YES_SPARK.md)
