@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Twenty
+# The Evolved Doctrine — First Twenty-Five
 
 These are the first twenty evolved working drafts, based on the source manuscript's original titles and central motifs.
 
@@ -30,3 +30,9 @@ These are the first twenty evolved working drafts, based on the source manuscrip
 Keep the language direct, simple, aggressive, and memorable. Each weapon must have a distinct purpose and rhythm. Preserve the source's dark, market-coded identity without adding fake market certainty, fabricated urgency, or pressure that removes a reader's/client's ability to decline.
 
 These are drafts for author review, not a claim that the full book is complete or that the first twenty are locked.
+
+- [Weapon 021 — The Client Mirror](WEAPON_021_THE_CLIENT_MIRROR.md)
+- [Weapon 022 — The Time Razor](WEAPON_022_THE_TIME_RAZOR.md)
+- [Weapon 023 — The Priceless Void](WEAPON_023_THE_PRICELESS_VOID.md)
+- [Weapon 024 — The Pressure Zone](WEAPON_024_THE_PRESSURE_ZONE.md)
+- [Weapon 025 — The Frequency Thread](WEAPON_025_THE_FREQUENCY_THREAD.md)
