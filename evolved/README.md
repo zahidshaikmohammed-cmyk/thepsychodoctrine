@@ -1,6 +1,6 @@
-# The Evolved Doctrine — First Thirty-Five
+# The Evolved Doctrine — First Forty
 
-These are the first twenty evolved working drafts, based on the source manuscript's original titles and central motifs.
+These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
 ## Drafts
 
@@ -48,3 +48,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 033 — The Invisible Force](WEAPON_033_THE_INVISIBLE_FORCE.md)
 - [Weapon 034 — The Art of Dominance](WEAPON_034_THE_ART_OF_DOMINANCE.md)
 - [Weapon 035 — The Final Decision Impact](WEAPON_035_THE_FINAL_DECISION_IMPACT.md)
+
+- [Weapon 036 — The Systematic Pressure Point](WEAPON_036_THE_SYSTEMATIC_PRESSURE_POINT.md)
+- [Weapon 037 — The Closing Force](WEAPON_037_THE_CLOSING_FORCE.md)
+- [Weapon 038 — The Pressure of the Unseen](WEAPON_038_THE_PRESSURE_OF_THE_UNSEEN.md)
+- [Weapon 039 — The Final Close](WEAPON_039_THE_FINAL_CLOSE.md)
+- [Weapon 040 — The Art of Persistence](WEAPON_040_THE_ART_OF_PERSISTENCE.md)
