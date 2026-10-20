@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Fifty-Five
+# The Evolved Doctrine — First Sixty
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -72,3 +72,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 053 — The One-Path Strategy](WEAPON_053_THE_ONE_PATH_STRATEGY.md)
 - [Weapon 054 — The Imprint of Decision](WEAPON_054_THE_IMPRINT_OF_DECISION.md)
 - [Weapon 055 — The Court of Decision](WEAPON_055_THE_COURT_OF_DECISION.md)
+
+- [Weapon 056 — The Truth of the Path](WEAPON_056_THE_TRUTH_OF_THE_PATH.md)
+- [Weapon 057 — The Self-Revelation](WEAPON_057_THE_SELF_REVELATION.md)
+- [Weapon 058 — The Question of Purpose](WEAPON_058_THE_QUESTION_OF_PURPOSE.md)
+- [Weapon 059 — The Final Judgement](WEAPON_059_THE_FINAL_JUDGEMENT.md)
+- [Weapon 060 — The Inevitable Move](WEAPON_060_THE_INEVITABLE_MOVE.md)
