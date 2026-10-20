@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Forty
+# The Evolved Doctrine — First Fifty-Five
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -66,3 +66,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 048 — The Force of Nature](WEAPON_048_THE_FORCE_OF_NATURE.md)
 - [Weapon 049 — The Essence of Sale](WEAPON_049_THE_ESSENCE_OF_SALE.md)
 - [Weapon 050 — The End of Negotiation](WEAPON_050_THE_END_OF_NEGOTIATION.md)
+
+- [Weapon 051 — The Feeling of Necessity](WEAPON_051_THE_FEELING_OF_NECESSITY.md)
+- [Weapon 052 — The Eternal Closing](WEAPON_052_THE_ETERNAL_CLOSING.md)
+- [Weapon 053 — The One-Path Strategy](WEAPON_053_THE_ONE_PATH_STRATEGY.md)
+- [Weapon 054 — The Imprint of Decision](WEAPON_054_THE_IMPRINT_OF_DECISION.md)
+- [Weapon 055 — The Court of Decision](WEAPON_055_THE_COURT_OF_DECISION.md)
