@@ -1,31 +1,17 @@
 # WEAPON 059 — THE FINAL JUDGEMENT
 
-## ORIGINAL MANUSCRIPT — PRESERVED
+THE FINAL VERDICT MUST COME FROM THE EVIDENCE.
 
-Every decision is judged.
-Say: “This is your judgment. There is no going back.”
-Psycho doesn’t ask for agreement.
-He asks for decision.
-The judgment is final.
-The future is decided.
-There’s no room for hesitation.
-Psycho doesn’t give them a chance to reconsider.
-The decision is final, and the future seals.
+Before the decision, Psycho runs the last check. Does the solution fit the goal? Is the price understood? Are the limits clear? Have the real objections been answered?
 
-## PSYCHO EVOLUTION — THE VERDICT COMES FROM THE EVIDENCE
+Say: “We’ve covered the goal, the costs, and the trade-offs. Is anything important still unresolved—or are you ready to decide?”
 
-A STRONG CLOSE DOESN’T NEED TO SILENCE DOUBT. IT NEEDS TO RESOLVE IT.
+Then hold the silence. Let the answer arrive.
 
-Before the decision, Psycho runs the final check: does the solution fit the stated goal, is the price understood, are the limitations clear, and have the important objections been answered?
+If the client is ready, define the next step. If they need an answer, give it. If the offer doesn’t fit, step back. If they say no, respect the verdict and leave without bitterness.
 
-**Say:** “We’ve covered the goal, the costs, and the trade-offs. Is anything important still unresolved—or are you ready to decide?”
+Endless drift wastes time. A considered no is still stronger than a yes dragged out by pressure.
 
-Then hold the silence. Do not fill it with pressure. Let the client think.
+Psycho’s case must stand without intimidation. The facts carry the weight; the seller’s ego stays out of the courtroom.
 
-If they are ready, define the next step and confirm the agreement. If they need a specific answer, provide it. If the offer does not fit, step back. If they say no, respect the verdict and leave the door open without punishment.
-
-Decision is not weakness. Endless drift can waste time, but a considered no is better than a coerced yes.
-
-Psycho’s standard is simple: the case must be strong enough to stand without intimidation.
-
-**THE RULE:** Summarize the evidence. Invite a clear decision. Respect the answer.
+**Summarize the evidence. Invite the decision. Respect the answer.**
