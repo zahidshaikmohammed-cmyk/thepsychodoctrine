@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Seventy
+# The Evolved Doctrine — First Seventy-Five
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -90,3 +90,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 068 — The Shifting Moment](WEAPON_068_THE_SHIFTING_MOMENT.md)
 - [Weapon 069 — The Invisible Contract](WEAPON_069_THE_INVISIBLE_CONTRACT.md)
 - [Weapon 070 — The Imprint of Action](WEAPON_070_THE_IMPRINT_OF_ACTION.md)
+
+- [Weapon 071 — The Final Push](WEAPON_071_THE_FINAL_PUSH.md)
+- [Weapon 072 — The Art of Persistence](WEAPON_072_THE_ART_OF_PERSISTENCE.md)
+- [Weapon 073 — The Pressure of Decision](WEAPON_073_THE_PRESSURE_OF_DECISION.md)
+- [Weapon 074 — The Mind Game](WEAPON_074_THE_MIND_GAME.md)
+- [Weapon 075 — The Shifting Moment](WEAPON_075_THE_SHIFTING_MOMENT.md)
