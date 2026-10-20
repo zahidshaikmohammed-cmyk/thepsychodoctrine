@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Seventy-Five
+# The Evolved Doctrine — First One Hundred
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -96,3 +96,29 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 073 — The Pressure of Decision](WEAPON_073_THE_PRESSURE_OF_DECISION.md)
 - [Weapon 074 — The Mind Game](WEAPON_074_THE_MIND_GAME.md)
 - [Weapon 075 — The Shifting Moment](WEAPON_075_THE_SHIFTING_MOMENT.md)
+
+- [Weapon 076 — The Invisible Contract](WEAPON_076_THE_INVISIBLE_CONTRACT.md)
+- [Weapon 077 — The Imprint of Action](WEAPON_077_THE_IMPRINT_OF_ACTION.md)
+- [Weapon 078 — The Coercion of the Mind](WEAPON_078_THE_COERCION_OF_THE_MIND.md)
+- [Weapon 079 — The Urgency of Now](WEAPON_079_THE_URGENCY_OF_NOW.md)
+- [Weapon 080 — The Final Judgement](WEAPON_080_THE_FINAL_JUDGEMENT.md)
+- [Weapon 081 — The Infallible Decision](WEAPON_081_THE_INFALLIBLE_DECISION.md)
+- [Weapon 082 — The Finality of Action](WEAPON_082_THE_FINALITY_OF_ACTION.md)
+- [Weapon 083 — The Timeless Close](WEAPON_083_THE_TIMELESS_CLOSE.md)
+- [Weapon 084 — The Decision of the Heart](WEAPON_084_THE_DECISION_OF_THE_HEART.md)
+- [Weapon 085 — The Crisis of Decision](WEAPON_085_THE_CRISIS_OF_DECISION.md)
+- [Weapon 086 — The Will of the Client](WEAPON_086_THE_WILL_OF_THE_CLIENT.md)
+- [Weapon 087 — The Beyond-Time Close](WEAPON_087_THE_BEYOND_TIME_CLOSE.md)
+- [Weapon 088 — The Invisible Contract — Revisited](WEAPON_088_THE_INVISIBLE_CONTRACT_REVISITED.md)
+- [Weapon 089 — The Final Turning Point](WEAPON_089_THE_FINAL_TURNING_POINT.md)
+- [Weapon 090 — The Decision-Making Symphony](WEAPON_090_THE_DECISION_MAKING_SYMPHONY.md)
+- [Weapon 091 — The Guilt of Inaction](WEAPON_091_THE_GUILT_OF_INACTION.md)
+- [Weapon 092 — The Final Shift](WEAPON_092_THE_FINAL_SHIFT.md)
+- [Weapon 093 — The Divine Tension](WEAPON_093_THE_DIVINE_TENSION.md)
+- [Weapon 094 — The Finality of Yes](WEAPON_094_THE_FINALITY_OF_YES.md)
+- [Weapon 095 — The Unseen Control](WEAPON_095_THE_UNSEEN_CONTROL.md)
+- [Weapon 096 — The External Pressure](WEAPON_096_THE_EXTERNAL_PRESSURE.md)
+- [Weapon 097 — The Mind Bender](WEAPON_097_THE_MIND_BENDER.md)
+- [Weapon 098 — The Unseen Force](WEAPON_098_THE_UNSEEN_FORCE.md)
+- [Weapon 099 — The Finishing Move](WEAPON_099_THE_FINISHING_MOVE.md)
+- [Weapon 100 — The Unstoppable Shift](WEAPON_100_THE_UNSTOPPABLE_SHIFT.md)
