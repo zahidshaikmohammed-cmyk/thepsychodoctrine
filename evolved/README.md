@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Sixty-Five
+# The Evolved Doctrine — First Seventy
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -84,3 +84,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 063 — The Decision Is a Truth](WEAPON_063_THE_DECISION_IS_A_TRUTH.md)
 - [Weapon 064 — The Art of the Close](WEAPON_064_THE_ART_OF_THE_CLOSE.md)
 - [Weapon 065 — The Silent Commanding Close](WEAPON_065_THE_SILENT_COMMANDING_CLOSE.md)
+
+- [Weapon 066 — The Finality of Time](WEAPON_066_THE_FINALITY_OF_TIME.md)
+- [Weapon 067 — The Mind Game](WEAPON_067_THE_MIND_GAME.md)
+- [Weapon 068 — The Shifting Moment](WEAPON_068_THE_SHIFTING_MOMENT.md)
+- [Weapon 069 — The Invisible Contract](WEAPON_069_THE_INVISIBLE_CONTRACT.md)
+- [Weapon 070 — The Imprint of Action](WEAPON_070_THE_IMPRINT_OF_ACTION.md)
