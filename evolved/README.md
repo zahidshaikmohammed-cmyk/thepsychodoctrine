@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First Sixty
+# The Evolved Doctrine — First Sixty-Five
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -78,3 +78,9 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 058 — The Question of Purpose](WEAPON_058_THE_QUESTION_OF_PURPOSE.md)
 - [Weapon 059 — The Final Judgement](WEAPON_059_THE_FINAL_JUDGEMENT.md)
 - [Weapon 060 — The Inevitable Move](WEAPON_060_THE_INEVITABLE_MOVE.md)
+
+- [Weapon 061 — The Force of Nature](WEAPON_061_THE_FORCE_OF_NATURE.md)
+- [Weapon 062 — The Final Verdict](WEAPON_062_THE_FINAL_VERDICT.md)
+- [Weapon 063 — The Decision Is a Truth](WEAPON_063_THE_DECISION_IS_A_TRUTH.md)
+- [Weapon 064 — The Art of the Close](WEAPON_064_THE_ART_OF_THE_CLOSE.md)
+- [Weapon 065 — The Silent Commanding Close](WEAPON_065_THE_SILENT_COMMANDING_CLOSE.md)
