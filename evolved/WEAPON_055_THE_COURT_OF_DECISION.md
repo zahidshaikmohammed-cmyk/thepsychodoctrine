@@ -1,30 +1,17 @@
 # WEAPON 055 — THE COURT OF DECISION
 
-## ORIGINAL MANUSCRIPT — PRESERVED
+PUT THE CASE ON THE TABLE. LET THE OFFER FACE THE LIGHT.
 
-The decision is not just a choice.
-It’s a court.
-They stand as the defendant, and their hesitation is the guilt.
-Say: “You don’t need to convince me. You need to convince yourself.”
-Psycho doesn’t argue.
-He holds court with their hesitation.
-Every doubt they have is a deliberation.
-When they speak, they sentence themselves to their decision.
-Psycho isn’t selling.
-He’s judging their choice.
+The decision is not a courtroom where the client stands accused. Doubt is not guilt. Hesitation is not defeat. Every objection is a signal to examine the case harder.
 
-## PSYCHO EVOLUTION — PUT THE CASE ON THE TABLE
+Psycho doesn’t argue just to dominate the room. He tests the offer until the truth stands naked: the problem, the solution, the cost, the risk, the alternatives.
 
-NO THEATRICS. NO GUILT TRIAL. JUST THE CASE.
+Say: “What is the strongest reason not to move forward? Let’s examine it honestly. If we can’t resolve it, we shouldn’t pretend it isn’t there.”
 
-The client is not the defendant. Hesitation is not guilt. Doubt is information—and the Psycho knows how to examine it without turning the conversation into a courtroom ambush.
+No flinching. No smoke. No counterattack disguised as confidence.
 
-Put the case on the table: the problem, the evidence, the proposed solution, the cost, the risks, and the alternatives. Ask what remains unresolved. Listen without preparing a counterattack.
+If the answer is real, answer it. If the limitation is real, name it. If the offer is wrong, let it fall. A weak deal does not become strong because the seller raises his voice.
 
-**Say:** “What is the strongest reason not to move forward? Let’s examine it honestly. If we can’t resolve it, we shouldn’t pretend it isn’t there.”
+Psycho doesn’t need to defeat the client. He needs the offer to survive scrutiny.
 
-A real objection deserves a real answer. A missing feature stays missing. A risk stays visible. A poor fit stays a poor fit.
-
-Psycho doesn’t need to win an argument against the client. He needs to determine whether the offer stands up to scrutiny. If it does, the facts can carry the close. If it doesn’t, no amount of force can make it right.
-
-**THE RULE:** Test the offer, not the person. Let evidence deliver the verdict.
+**Test the offer, not the person. Let the evidence deliver the verdict.**
