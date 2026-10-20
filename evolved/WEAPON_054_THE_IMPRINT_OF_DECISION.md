@@ -1,32 +1,19 @@
 # WEAPON 054 — THE IMPRINT OF DECISION
 
-## ORIGINAL MANUSCRIPT — PRESERVED
+EVERY DECISION LEAVES A MARK. MAKE SURE IT IS MADE OF TRUTH.
 
-Every decision leaves an imprint on the soul.
-Say: “This decision will stay with you forever.”
-The deeper the imprint, the harder it is to undo.
-Psycho’s decisions are etched into their psyche.
-Once they say yes, they cannot turn back.
-The decision becomes a part of them.
-Psycho doesn’t just close sales.
-He imprints a future on their soul.
-Each decision marks them for life.
-This imprint is forever permanent.
+A yes shouted in a moment of heat can vanish by morning. A decision anchored in evidence can stand when the room goes quiet.
 
-## PSYCHO EVOLUTION — MAKE THE DECISION MEMORABLE
+Psycho doesn’t need to trap a client inside yesterday’s words. He makes the reason for the decision clear enough to survive tomorrow’s questions.
 
-A DECISION BECOMES STRONGER WHEN ITS REASON IS CLEAR.
+Name the objective. Record the agreement. Put the price, limits, risks, and next steps in plain sight.
 
-The Psycho doesn’t try to make a client feel trapped by a yes. He makes the reason for that yes clear enough to remember tomorrow.
+Say: “Before we finalize, let’s capture what matters: the problem you want solved, why this option fits, and what would make us reconsider.”
 
-Write down the objective. Record the agreed solution. State the price, the limits, the risks, and the next step. Make sure the client can explain—in their own words—why this decision fits.
+That is the imprint—not fear, not shame, not the lie that a choice can never be changed. It is a decision built on facts, understood by the person making it.
 
-**Say:** “Before we finalize, let’s capture what matters: the problem you want solved, why this option fits, and what would make us reconsider.”
+If the deal only works while emotion is running hot, it was never strong enough.
 
-That is the imprint: not fear, not shame, not a claim that the choice can never be reversed. It is a decision anchored to evidence and a clearly understood purpose.
+Psycho wants the client to remember the reason, not feel chained to the answer.
 
-The strongest close survives a quiet review after the call. If the deal only works while the client is emotionally charged, it was never strong enough.
-
-Psycho wants a client who remembers the reason—not a client who feels unable to change their mind.
-
-**THE RULE:** Anchor the decision in facts, fit, and a clear record. Let confidence survive reflection.
+**Anchor the decision in evidence. Let confidence survive reflection.**
