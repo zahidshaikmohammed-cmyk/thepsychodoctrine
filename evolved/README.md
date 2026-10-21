@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First One Hundred
+# The Evolved Doctrine — First One Hundred Twenty-Five
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -122,3 +122,29 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 098 — The Unseen Force](WEAPON_098_THE_UNSEEN_FORCE.md)
 - [Weapon 099 — The Finishing Move](WEAPON_099_THE_FINISHING_MOVE.md)
 - [Weapon 100 — The Unstoppable Shift](WEAPON_100_THE_UNSTOPPABLE_SHIFT.md)
+
+- [Weapon 101 — Later Collapse Trigger](WEAPON_101_LATER_COLLAPSE_TRIGGER.md)
+- [Weapon 102 — Delay Illusion Break](WEAPON_102_DELAY_ILLUSION_BREAK.md)
+- [Weapon 103 — Time Pressure Reframe](WEAPON_103_TIME_PRESSURE_REFRAME.md)
+- [Weapon 104 — Future Cost Mirror](WEAPON_104_FUTURE_COST_MIRROR.md)
+- [Weapon 105 — Decision Window Narrower](WEAPON_105_DECISION_WINDOW_NARROWER.md)
+- [Weapon 106 — Momentum Ignition Line](WEAPON_106_MOMENTUM_IGNITION_LINE.md)
+- [Weapon 107 — Action Now Bias](WEAPON_107_ACTION_NOW_BIAS.md)
+- [Weapon 108 — Waiting Penalty Frame](WEAPON_108_WAITING_PENALTY_FRAME.md)
+- [Weapon 109 — Time Scarcity Implant](WEAPON_109_TIME_SCARCITY_IMPLANT.md)
+- [Weapon 110 — Opportunity Decay Signal](WEAPON_110_OPPORTUNITY_DECAY_SIGNAL.md)
+- [Weapon 111 — Deadline Without Deadline](WEAPON_111_DEADLINE_WITHOUT_DEADLINE.md)
+- [Weapon 112 — Pause Intolerance Spike](WEAPON_112_PAUSE_INTOLERANCE_SPIKE.md)
+- [Weapon 113 — Momentum Carryover Hook](WEAPON_113_MOMENTUM_CARRYOVER_HOOK.md)
+- [Weapon 114 — Now-or-Never Neutralizer](WEAPON_114_NOW_OR_NEVER_NEUTRALIZER.md)
+- [Weapon 115 — Time Advantage Claim](WEAPON_115_TIME_ADVANTAGE_CLAIM.md)
+- [Weapon 116 — Delay Shame Softener](WEAPON_116_DELAY_SHAME_SOFTENER.md)
+- [Weapon 117 — Forward Motion Lock](WEAPON_117_FORWARD_MOTION_LOCK.md)
+- [Weapon 118 — Procrastination Exposure](WEAPON_118_PROCRASTINATION_EXPOSURE.md)
+- [Weapon 119 — Decision Gravity Well](WEAPON_119_DECISION_GRAVITY_WELL.md)
+- [Weapon 120 — Clock Compression Effect](WEAPON_120_CLOCK_COMPRESSION_EFFECT.md)
+- [Weapon 121 — Missed Window Visualizer](WEAPON_121_MISSED_WINDOW_VISUALIZER.md)
+- [Weapon 122 — Time Authority Anchor](WEAPON_122_TIME_AUTHORITY_ANCHOR.md)
+- [Weapon 123 — Speed Over Certainty Frame](WEAPON_123_SPEED_OVER_CERTAINTY_FRAME.md)
+- [Weapon 124 — Action Preference Bias](WEAPON_124_ACTION_PREFERENCE_BIAS.md)
+- [Weapon 125 — Delay Cost Amplifier](WEAPON_125_DELAY_COST_AMPLIFIER.md)
