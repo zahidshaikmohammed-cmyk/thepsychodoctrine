@@ -1,4 +1,4 @@
-# The Evolved Doctrine — First One Hundred Twenty-Five
+# The Evolved Doctrine — First Two Hundred
 
 These are evolved working drafts based on the source manuscript's original titles and central motifs.
 
@@ -206,3 +206,32 @@ These are drafts for author review, not a claim that the full book is complete o
 - [Weapon 173 — The Phantom Mentor](WEAPON_173_THE_PHANTOM_MENTOR.md)
 - [Weapon 174 — The Exitless Loop](WEAPON_174_THE_EXITLESS_LOOP.md)
 - [Weapon 175 — The War God Close](WEAPON_175_THE_WAR_GOD_CLOSE.md)
+
+
+## Weapons 176–200
+
+- [Weapon 176 — The Payment Storm](WEAPON_176_THE_PAYMENT_STORM.md)
+- [Weapon 177 — The Choice Executioner](WEAPON_177_THE_CHOICE_EXECUTIONER.md)
+- [Weapon 178 — The Endless Window](WEAPON_178_THE_ENDLESS_WINDOW.md)
+- [Weapon 179 — The Shiver Line](WEAPON_179_THE_SHIVER_LINE.md)
+- [Weapon 180 — The Cracked Mask](WEAPON_180_THE_CRACKED_MASK.md)
+- [Weapon 181 — The Sound of Battle](WEAPON_181_THE_SOUND_OF_BATTLE.md)
+- [Weapon 182 — The History Strike](WEAPON_182_THE_HISTORY_STRIKE.md)
+- [Weapon 183 — The Clock Driller](WEAPON_183_THE_CLOCK_DRILLER.md)
+- [Weapon 184 — The Omen Pull](WEAPON_184_THE_OMEN_PULL.md)
+- [Weapon 185 — The Forgotten Self](WEAPON_185_THE_FORGOTTEN_SELF.md)
+- [Weapon 186 — The Single Ladder](WEAPON_186_THE_SINGLE_LADDER.md)
+- [Weapon 187 — The Blood Coin](WEAPON_187_THE_BLOOD_COIN.md)
+- [Weapon 188 — The Reverse Grave](WEAPON_188_THE_REVERSE_GRAVE.md)
+- [Weapon 189 — The Fracture Point](WEAPON_189_THE_FRACTURE_POINT.md)
+- [Weapon 190 — The Closer’s Graveyard](WEAPON_190_THE_CLOSER_S_GRAVEYARD.md)
+- [Weapon 191 — The Eclipse Point](WEAPON_191_THE_ECLIPSE_POINT.md)
+- [Weapon 192 — The Bone Snap Close](WEAPON_192_THE_BONE_SNAP_CLOSE.md)
+- [Weapon 193 — The Godvoid Initiation](WEAPON_193_THE_GODVOID_INITIATION.md)
+- [Weapon 194 — The Blood-Forged Yes](WEAPON_194_THE_BLOOD_FORGED_YES.md)
+- [Weapon 195 — The Grave of Sound](WEAPON_195_THE_GRAVE_OF_SOUND.md)
+- [Weapon 196 — The Cosmic Drill](WEAPON_196_THE_COSMIC_DRILL.md)
+- [Weapon 197 — The Memory Annihilator](WEAPON_197_THE_MEMORY_ANNIHILATOR.md)
+- [Weapon 198 — The Ashen Close](WEAPON_198_THE_ASHEN_CLOSE.md)
+- [Weapon 199 — The Blackwater Gate](WEAPON_199_THE_BLACKWATER_GATE.md)
+- [Weapon 200 — The Dissolution](WEAPON_200_THE_DISSOLUTION.md)
